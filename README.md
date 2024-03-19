@@ -48,8 +48,8 @@ It takes bulk ASINS as input and provides all related data.
 * **Step-3:-** Now, download this sheet and Copy only required fields like ASIN , SKU , TITLE , BRAND NAME ,PRICE and WEIGHT data.
 * **Step-4:-** And paste these 6 fields in Bulk formula sheet and the formula  will produce SALE PRICE and MRP which are also important to upload products using FLAT file.
 * **Step-5:-** Open Amazon’s FLAT file provided by Amazon and Paste the data. And save the file with txt (tab delimiter) extension.
-* **Step-6:- **Now, Open amazon seller central and upload this FLAT file and click submit products.
-* **Step-7:- **Then Amazon itself automatically uploads this bulk data in Amazon.in.
+* **Step-6:-** Now, Open amazon seller central and upload this FLAT file and click submit products.
+* **Step-7:-** Then Amazon itself automatically uploads this bulk data in Amazon.in.
 * **Step-8:-** Now, this data is visible to our amazon customers and shows seller as Peach imports.
 
 ### 4.Any Updates (If required):
