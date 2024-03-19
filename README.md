@@ -86,4 +86,10 @@ It takes bulk ASINS as input and provides all related data.
 ### 4.Any Updates (If required):
 
 #
+# USER GUIDE TO USE IMAGE DOCX TOOL  
+
+### 1.Why this tool:  
+This tool is used to convert bulk image URLs to images and place these images in a Docx file which is catalogue file used for Customs verification.
+Before this tool they used to insert each image manually in catalogue docx file which takes weeks to complete the work but now with the help of **PRODUCT IMAGE** and **IMAGE DOCX Tools**, the work became easy.
+
 
