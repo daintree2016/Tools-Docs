@@ -195,3 +195,52 @@ The Reports field is helpful for **WAREHOUSE** Department to maintain and manage
 * **Step-1:-** Select the Ship code then it will produces the Shipment Wise Records.
 
 * **Step-2:-** The Dynamic Stock table represents the overall stock that is PROACTIVE and REACTIVE in that particular Shipment.
+
+* **Step-3:-** The Unused Stock table represents the PROACTIVE Stock that is the left over stock after outbound in that particular Shipment.
+
+* **Step-4:-** The middle table represents all the shipment data with PUIDs. The PUIDs are used to distinguish the products with Same ASIN, So that it is easy for FULFILMENT Department to know which product got returned.
+
+* **Step-5:-** The Shipment products are REACTIVE by Default and They use convert the balance stock to Proactive button to Convert the remaining products after outbound to Proactive.
+
+**DATE WISE REPORTS:**  
+
+* **Step-1:-** Enter the start date and the end date and click submit button.
+
+* **Step-2:-** It will produces the date wise reports.
+
+**DATE REPORTS:**  
+* **Step-1:-** Enter the start date and the end date and click submit button.
+
+## HISTORY  
+History is used to know what the updates or actions are done in the WIM at what time and how has done that action.  
+
+### 1.WHY THIS TOOL:  
+This tool is helpful for FULFILMENT Department to know daily updates and history.  
+
+### 2.HOW TO USE THIS TOOL:  
+* **Step-1:-** Open WIM click on History in Menu and it will produces all the log data.
+
+* **Step-2:- **
+
+## UPLOADS  
+Uploads field is used to upload the shipment data. In that field contains Manual(single), New Data (Bulk) and Edit old (Bulk).  
+
+### 1.WHY THIS TOOL:  
+Uploads field is used to upload the shipment data. In that field contains Manual(single), New Data (Bulk) and Edit old (Bulk).  
+
+### 2.HOW TO USE THIS TOOL:  
+
+**Manual(single):**   
+* **Step-1:-** In this field, we need to fill the form to enter a single product.
+
+## BARCODES  
+BARCODES field is used to print the barcodes using PUID. To label the products.  
+### 1.WHY THIS TOOL:  
+This tool is helpful for **FULFILLMENT** Department to distinguish the products using these barcodes and easy to Restock the products.
+
+### 2.HOW TO USE THIS TOOL:  
+* **Step-1:-** Open WIM and click on Barcodes field in menu and select Generate Barcodes.
+* **Step-2:-** Enter PUIDs that you want to generate barcodes.
+* **Step-3:-** Generate the barcodes using Generate Barcodes button.
+* **Step-4:-** Download the barcodes Using Download Reports Button.
+* **Step-5:-** They will stick these barcodes to the products.
