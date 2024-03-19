@@ -35,4 +35,22 @@ The Buy Box API will take no. of ASINS and produces the table of products data. 
 #
 
 # USER GUIDE TO USE SIMPLE DOT COM TOOL
+### 1.Why this Tool:
+This Simple Dot Com tool is used to upload the products in bulk, this tool makes operations department’s work easy by providing all the related fields which are required to upload the products in amazon seller central.
+Before this tool, they used to enter data manually.
+
+### 2.How it works:
+It takes bulk ASINS as input and provides all related data.
+
+### 3.How to use it:
+* **Step-1:-** Open Simple Dot Com and paste the listing data ASINS which we want to bulk upload in amazon.in and click submit button.
+* **Step-2:-** Simple Dot Com program  automatically produces the output excel sheet which contains ASINS and their related fields including PRICE converted to Indian currency that used to upload the data in Amazon seller central.
+* **Step-3:-** Now, download this sheet and Copy only required fields like ASIN , SKU , TITLE , BRAND NAME ,PRICE and WEIGHT data.
+* **Step-4:-** And paste these 6 fields in Bulk formula sheet and the formula  will produce SALE PRICE and MRP which are also important to upload products using FLAT file.
+* **Step-5:-** Open Amazon’s FLAT file provided by Amazon and Paste the data. And save the file with txt (tab delimiter) extension.
+* **Step-6:- **Now, Open amazon seller central and upload this FLAT file and click submit products.
+* **Step-7:- **Then Amazon itself automatically uploads this bulk data in Amazon.in.
+* **Step-8:-** Now, this data is visible to our amazon customers and shows seller as Peach imports.
+
+### 4.Any Updates (If required):
 
