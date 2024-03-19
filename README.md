@@ -173,6 +173,7 @@ This tool is used to verify the shipment products. Whenever we receive the shipm
 ### 4.Any Updates (If required):  
 
 #  
+
 # WAREHOUSE INVENTORY MANAGEMENT (WIM)  
 
 ## REPORTS
