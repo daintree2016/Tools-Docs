@@ -170,6 +170,24 @@ This tool is used to verify the shipment products. Whenever we receive the shipm
 * **Step-6:-** After finishing shipment products verification. Click on orders filed and if any orders are there for that particular product, then print the invoice and airway bill and pack the product.
 * **Step-7:-** Otherwise, place the product in PRO ACTIVE.
 
-### 4.Any Updates (If required):
+### 4.Any Updates (If required):  
 
+#  
+# WAREHOUSE INVENTORY MANAGEMENT (WIM)  
+
+## REPORTS
+Reports field is used to maintain the stock reports. This Reports field will show all the products in monthly wise reports, Stock reports, shipment wise reports.  
+### 1.WHY THIS TOOL:  
+The Reports field is helpful for **WAREHOUSE** Department to maintain and manage the WAREHOUSE Stock. By using this tool, they will  update the stock details like PROACTIVE and REACTIVE to SIR.  
+
+### 2.HOW TO USE THIS TOOL:  
+
+**STOCK REPORTS:**
+* **Step-1:-** Open WIM and click on Reports field in menu and select Stock Reports.
+
+* **Step-2:-** Show all button will produces all the data about the products which are in our WAREHOUSE (PROACTIVE).
+
+* **Step-3:-** Vizag button will produces products data which are in Vizag and Hyderabad button will produces products data which are in Hyderabad.
+
+* **Step-4:-** We can download this data using download data button.
 
