@@ -151,3 +151,27 @@ This auto pricing calculator takes ASINS as input and produces the fields like S
 
 ### 4.Any Updates (If required):  
 
+#
+
+# SHIPMENT VERIFICATION TOOL  
+
+# 1.Why this tool:  
+
+	This tool is used to verify the shipment products. Whenever we receive the shipment, we need to verify the products using shipment Verification tool.  
+ 
+# 2.How it works:  
+
+  
+# 3.How to use it:  
+
+* **Step-1:-** When we receive the shipment, Open the shipment verification tool.
+* **Step-2:-** Enter the details like shipment id,
+* **Step-3:-** Now, take any product from the shipment and check for that particular product name in the shipment verification list.
+* **Step-4:-** If you find the product in the shipment list then bubble the product in verification filed. And If you find the same product in the shipment list then bubble the product again.
+* **Step-5:-** Which means, the number of bubbles in each product indicates the quantity of particular product.
+* **Step-6:-** After finishing shipment products verification. Click on orders filed and if any orders are there for that particular product, then print the invoice and airway bill and pack the product.
+* **Step-7:-** Otherwise, place the product in PRO ACTIVE.
+
+# 4.Any Updates (If required):
+
+<span style="color: red;">This text will be red.</span>
