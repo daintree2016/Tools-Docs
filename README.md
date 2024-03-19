@@ -191,3 +191,7 @@ The Reports field is helpful for **WAREHOUSE** Department to maintain and manage
 
 * **Step-4:-** We can download this data using download data button.
 
+**SHIP WISE REPORTS:**  
+* **Step-1:-** Select the Ship code then it will produces the Shipment Wise Records.
+
+* **Step-2:-** The Dynamic Stock table represents the overall stock that is PROACTIVE and REACTIVE in that particular Shipment.
