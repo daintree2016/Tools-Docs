@@ -10,3 +10,4 @@ Sellers can’t just sign up and become eligible to appear on the Buy Box. Amazo
   * Seller metrics.
 #
 are the most influential. 
+### 2.Why this tool:
