@@ -1,7 +1,7 @@
 # Tools-Docs
 Informational guides for users about all the existing tools
-# USER GUIDE TO USE BUY BOX API 
-### 1.AMAZON Buy Box eligibility factors:  
+# 1.USER GUIDE TO USE BUY BOX API 
+- ### 1.AMAZON Buy Box eligibility factors:  
 
 Sellers can’t just sign up and become eligible to appear on the Buy Box. Amazon considers a variety of factors before approval, although the first four factors listed below.
   *	Fulfilment method.
@@ -84,4 +84,6 @@ It takes bulk ASINS as input and provides all related data.
 * **Step-8:-** Now, this data is visible to our amazon customers and shows seller as Peach imports.
   
 ### 4.Any Updates (If required):
+
+#
 
