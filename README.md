@@ -8,4 +8,4 @@ Sellers can’t just sign up and become eligible to appear on the Buy Box. Amazo
 * Shipping time.
 * Feedback rating.
 * Seller metrics.
-  are the most influential. 
+are the most influential. 
