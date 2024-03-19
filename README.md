@@ -157,7 +157,7 @@ This auto pricing calculator takes ASINS as input and produces the fields like S
 
 ### 1.Why this tool:  
 This tool is used to verify the shipment products. Whenever we receive the shipment, we need to verify the products using shipment Verification tool.
-### 2.How it works:  
+<span style="color:red">### 2.How it works:  </span>
 
   
 ### 3.How to use it:  
@@ -172,4 +172,4 @@ This tool is used to verify the shipment products. Whenever we receive the shipm
 
 ### 4.Any Updates (If required):
 
-# <span style="color: red;">This text will be red.</span>
+
