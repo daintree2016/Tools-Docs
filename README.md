@@ -181,13 +181,19 @@ Reports field is used to maintain the stock reports. This Reports field will sho
 ### 1.WHY THIS TOOL:  
 The Reports field is helpful for **WAREHOUSE** Department to maintain and manage the WAREHOUSE Stock. By using this tool, they will  update the stock details like PROACTIVE and REACTIVE to SIR.  
 
+![My Image](wim1.png "My Image")  
+
 ### 2.HOW TO USE THIS TOOL:  
 
 **STOCK REPORTS:**
 * **Step-1:-** Open WIM and click on Reports field in menu and select Stock Reports.
 
+ ![My Image](wim2.png "My Image")  
+
 * **Step-2:-** Show all button will produces all the data about the products which are in our WAREHOUSE (PROACTIVE).
 
+  ![My Image](wim3.png "My Image")
+  
 * **Step-3:-** Vizag button will produces products data which are in Vizag and Hyderabad button will produces products data which are in Hyderabad.
 
 * **Step-4:-** We can download this data using download data button.
