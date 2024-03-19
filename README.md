@@ -18,5 +18,5 @@ Before this tool, they manually updated the prices to get Buy Box and It takes w
 The Buy Box API will take no. of ASINS and produces the table of products data. Now download the data using download button. Now open this downloaded file in Excell sheet and apply the filter to get only Buy Box FALSE data. So that we can update pricing rule to this FALSE data to achieve **BUY BOX**. 
 
 ### 4.How to use:
-**Step-1:-**  Firstly, open Buy Box API and  paste the ASINS data in the input field and click submit button.
-**Step-2:-**  It will produce the list of products , we need to download the file using download file button.
+* **Step-1:-**  Firstly, open Buy Box API and  paste the ASINS data in the input field and click submit button.
+* **Step-2:-**  It will produce the list of products , we need to download the file using download file button.
