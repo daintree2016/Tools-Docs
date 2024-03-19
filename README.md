@@ -31,4 +31,8 @@ The Buy Box API will take no. of ASINS and produces the table of products data. 
 
 ### 5.Any Updates (If required):
 1.	Some products are displaying FALSE in Is Buy Box field even though the products are already in Buy Box (TRUE).
-  
+
+#
+
+# USER GUIDE TO USE SIMPLE DOT COM TOOL
+
