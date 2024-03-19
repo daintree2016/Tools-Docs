@@ -156,7 +156,7 @@ This auto pricing calculator takes ASINS as input and produces the fields like S
 # SHIPMENT VERIFICATION TOOL  
 
 ### 1.Why this tool:  
-	This tool is used to verify the shipment products. Whenever we receive the shipment, we need to verify the products using shipment Verification tool.
+This tool is used to verify the shipment products. Whenever we receive the shipment, we need to verify the products using shipment Verification tool.
 ### 2.How it works:  
 
   
