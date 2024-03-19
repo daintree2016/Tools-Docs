@@ -92,4 +92,22 @@ It takes bulk ASINS as input and provides all related data.
 This tool is used to convert bulk image URLs to images and place these images in a Docx file which is catalogue file used for Customs verification.
 Before this tool they used to insert each image manually in catalogue docx file which takes weeks to complete the work but now with the help of **PRODUCT IMAGE** and **IMAGE DOCX Tools**, the work became easy.
 
+### 2.How it works:  
+This IMAGE DOCX tool takes output of **Product Images** that is ASINs and their image URLs as input and produces images placed in catalogue form.
+This tool takes bulk data and produces the results in catalogue form which is a format used for Customs verification.  
+
+### 3.How to use it:  
+
+* **Step-1:-** Copy the output of PRODUCT IMAGE tool that is ASINS and image URLs.
+  
+* **Step-2:-** Now, open IMAGE DOCX and paste the ASINS and image URLs in the input field.
+  
+* **Step-3:-** Click Run button and then Click download file button.
+  
+* **Step-4:-** Now, all the IMAGES and ASINS are placed in the catalogue form(Customs format) in Docx.
+  
+* **Step-5:-** Then, they have to fill the remaining fields like end user , category Etc and submit the form to the customs Department.
+
+### 4.Any Updates (If required):  
+
 
