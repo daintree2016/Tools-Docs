@@ -137,12 +137,17 @@ This auto pricing calculator takes ASINS as input and produces the fields like S
   ![My Image](A1.png "My Image")  
   
 **Step-2:-** Click submit button, this will generate the downloadable file link and download the file using the download file button.  
+
 **Step-3:-** Now, open the downloaded excel sheet and it will display the updated pricing data.  
 
-  ![My Image](A2.png "My Image")
-**Step-4:-** Otherwise, use quick search field to enter single ASIN.
+  ![My Image](A2.png "My Image")  
+  
+**Step-4:-** Otherwise, use quick search field to enter single ASIN.  
+
 **Step-5:-** This quick search will directly display the updated pricing data in the current page without any external file.  
-![My Image](A3.png "My Image")
+
+![My Image](A3.png "My Image")  
+
 
 ### 4.Any Updates (If required):  
 
