@@ -102,9 +102,13 @@ This tool takes bulk data and produces the results in catalogue form which is a 
   
 * **Step-2:-** Now, open IMAGE DOCX and paste the ASINS and image URLs in the input field.
   
+  ![My Image](Img1.png "My Image")  
+  
 * **Step-3:-** Click Run button and then Click download file button.
+  ![My Image](Img2.png "My Image")
   
 * **Step-4:-** Now, all the IMAGES and ASINS are placed in the catalogue form(Customs format) in Docx.
+  ![My Image](Img3.png "My Image")
   
 * **Step-5:-** Then, they have to fill the remaining fields like end user , category Etc and submit the form to the customs Department.
 
