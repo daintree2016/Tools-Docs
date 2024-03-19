@@ -29,6 +29,6 @@ The Buy Box API will take no. of ASINS and produces the table of products data. 
 > [!NOTE]
 >We should be careful while entering Min and Max prices otherwise it will return **FIXED PRICE ERROR**.
 
-###5.Any Updates (If required):
+### 5.Any Updates (If required):
 1.	Some products are displaying FALSE in Is Buy Box field even though the products are already in Buy Box (TRUE).
   
