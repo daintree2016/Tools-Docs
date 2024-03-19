@@ -172,4 +172,7 @@ This tool is used to verify the shipment products. Whenever we receive the shipm
 
 ### 4.Any Updates (If required):
 
+```diff
+- This text will be displayed in red
++ This text will be displayed in green
 
