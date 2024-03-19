@@ -22,7 +22,7 @@ The Buy Box API will take no. of ASINS and produces the table of products data. 
 
 ### 4.How to use:  
 
-- **Step-1:-**  Firstly, open Buy Box API and  paste the ASINS data in the input field and click submit button.
+* **Step-1:-**  Firstly, open Buy Box API and  paste the ASINS data in the input field and click submit button.
   
 ![My Image](1.png "My Image")  
 
