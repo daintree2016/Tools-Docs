@@ -44,9 +44,12 @@ It takes bulk ASINS as input and provides all related data.
 
 ### 3.How to use it:
 * **Step-1:-** Open Simple Dot Com and paste the listing data ASINS which we want to bulk upload in amazon.in and click submit button.
+  
 ![My Image](s1.png "My Image")
 * **Step-2:-** Simple Dot Com program  automatically produces the output excel sheet which contains ASINS and their related fields including PRICE converted to Indian currency that used to upload the data in Amazon seller central.
-![My Image](s2.png "My Image")
+  
+![My Image](s2.png "My Image")  
+
 * **Step-3:-** Now, download this sheet and Copy only required fields like ASIN , SKU , TITLE , BRAND NAME ,PRICE and WEIGHT data.
 * **Step-4:-** And paste these 6 fields in Bulk formula sheet and the formula  will produce SALE PRICE and MRP which are also important to upload products using FLAT file.
 ![My Image](s3.png "My Image")
