@@ -21,6 +21,8 @@ The Buy Box API will take no. of ASINS and produces the table of products data. 
 * **Step-1:-**  Firstly, open Buy Box API and  paste the ASINS data in the input field and click submit button.
 ![My Image](1.png "My Image")
 * **Step-2:-**  It will produce the list of products , we need to download the file using download file button.
+![My Image](2.png "My Image")
 * **STEP-3:-** Search for the Buy Box FALSE products in search field and copy the particular ASIN.
+![My Image](3.png "My Image")
 * **Step-4:-**  Now , open Amazon Seller central and paste the ASIN and reduce the price , apply coupons , update handling time or Automate the pricing to achieve  Buy Box.
   
