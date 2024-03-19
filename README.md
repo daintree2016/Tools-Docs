@@ -19,4 +19,4 @@ The Buy Box API will take no. of ASINS and produces the table of products data. 
 
 ### 4.How to use:
 **Step-1:-**  Firstly, open Buy Box API and  paste the ASINS data in the input field and click submit button.
-
+**Step-2:-**  It will produce the list of products , we need to download the file using download file button.
