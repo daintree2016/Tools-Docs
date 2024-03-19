@@ -16,7 +16,7 @@ are the most influential.
 Buy Box tool is used to help us to display our products in higher priority when customer search for some products in our listing and also shows our company name in seller and sold by.
 Before this tool, they manually updated the prices to get Buy Box and It takes weeks to complete the work but now, the work became easy and time saving and now, they can do more work in less time.
 
-###3.How it works:  
+### 3.How it works:  
 
 The Buy Box API will take no. of ASINS and produces the table of products data. Now download the data using download button. Now open this downloaded file in Excell sheet and apply the filter to get only Buy Box FALSE data. So that we can update pricing rule to this FALSE data to achieve **BUY BOX**. 
 
@@ -240,7 +240,12 @@ This tool is helpful for **FULFILLMENT** Department to distinguish the products 
 
 ### 2.HOW TO USE THIS TOOL:  
 * **Step-1:-** Open WIM and click on Barcodes field in menu and select Generate Barcodes.
+  
 * **Step-2:-** Enter PUIDs that you want to generate barcodes.
+  
 * **Step-3:-** Generate the barcodes using Generate Barcodes button.
+  
 * **Step-4:-** Download the barcodes Using Download Reports Button.
+  
 * **Step-5:-** They will stick these barcodes to the products.
+  
