@@ -220,7 +220,7 @@ This tool is helpful for FULFILMENT Department to know daily updates and history
 ### 2.HOW TO USE THIS TOOL:  
 * **Step-1:-** Open WIM click on History in Menu and it will produces all the log data.
 
-* **Step-2:- **
+* **Step-2:-**
 
 ## UPLOADS  
 Uploads field is used to upload the shipment data. In that field contains Manual(single), New Data (Bulk) and Edit old (Bulk).  
