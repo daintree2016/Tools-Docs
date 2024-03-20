@@ -340,6 +340,12 @@ This tool is used to verify the shipment products. Whenever we receive the shipm
 ### 11.	 DEVELOPER
 
 
+# 1.DASHBOARD:
+
+**WHY THIS TEMPLATE:**
+This template is helpful for FULFILMENT DEPARTMENT. They will upload the bulk file here itself, later in dashboard you can see all the shipment details.
+HOW IT WORKS:
+1. In dashboard we can see Bulk Upload and Single Upload buttons, upcoming shipment data, and we can also download the Available stock data, Unavailable Stock data, Complete data.
 
 
 
