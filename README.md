@@ -19,7 +19,9 @@ Informational guides for users about all the existing tools
 ![My Image](keyimg1.png "My Image")
   
 * **Step3 :**  And now the program provide all the ASINS in terminal that indicates completion  of the program.
+![My Image](keyimg2.png "My Image")  
 * **Step4 :** Now this ASINS will display into EXCELL SHEET, where the sheet present in same code file and now by using this tools the listing process will become easy and simplified
+![My Image](keyimg3.png "My Image")
 * **Step5 :** Now operation team manually check these ASINS in amazon seller central and if the product has  less number of sellers and high rating then they will add this particular ASIN to listing.
 ### 4.	Any updates required
 *	By using this tool we are fetching only ASINS, but they requirement is to fetch the product TITLES  along with the ASINS. 
