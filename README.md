@@ -16,9 +16,6 @@ Informational guides for users about all the existing tools
 11.	BULK PDF READER - (online)
 12.	REFUND PROGRAM - (offline)
 
-
-
-
 # WIM (WAREHOUSE INVENTORY MANAGEMENT )
 
 
@@ -309,6 +306,45 @@ This tool is used to verify the shipment products. Whenever we receive the shipm
 #  
 
 # WAREHOUSE INVENTORY MANAGEMENT (WIM)  
+
+
+# USER GUID TO WAREHOUSE INVENTORY MANAGEMENT (WIM)
+
+**MENU:**
+1.	DASHBOARD
+
+2.	RETURNS
+•	MANAGE RETURNS
+•	RETURN FREQUENCY
+3.	REPORTS
+•	STOCK REPORTS
+•	SHIP WISE REPORTS
+•	DATE WISE REPORTS
+•	DATE REPORT (NEW)
+4.	HISTORY
+•	VIEW HISTORY
+•	VIEW FILES
+5.	ORDERS
+•	BULK CONFIRM
+6.	SHIPMENTS
+•	VIEW DASHBOARD
+•	VIEW BACKEND
+7.	UPLOADS
+•	MANUAL (SINGLE)
+•	NEW DATA (BULK)
+•	EDIT OLD (BULK)
+8.	BARCODES
+•	GENERATE BARCODES
+9.	TOOLS
+•	VIEW DASHBOARD
+•	ONLINE IMAGE DOCX
+10.	 ADMIN USER
+
+11.	 DEVELOPER
+
+
+
+
 
 ## REPORTS
 Reports field is used to maintain the stock reports. This Reports field will show all the products in monthly wise reports, Stock reports, shipment wise reports.  
