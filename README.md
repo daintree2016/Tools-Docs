@@ -635,16 +635,16 @@ So that it is easy for fulfilment department to get Invoice and Airway bill toge
 ### How to use it:
 * **Step-1:-** Open amazon seller central and select products that we receive the order.
 * **Step-2:-** Now, view the each product details and copy the tracking ID.
-![My Image](bulk_m1.png "My Image")
+![My Image](Bulk_m1.png "My Image")
 * **Step-3:-** Click on the print tax invoice button and save the invoice file name as ‘Tracking ID space – space I’ (Eg:81579366260 – I.pdf)    in pdf format. 
 * **Step-4:-** Now, open BlueDart Air Way Bill(AWB) form  and fill the order details manually and save the form file name as tracking ID in pdf format.
-![My Image](bulk_m2.png "My Image")
+![My Image](Bulk_m2.png "My Image")
 * **Step-5:-** Once, you get all the order’s INVOICE AND AWB in one folder.
-![My Image](bulk_m3.png "My Image")
+![My Image](Bulk_m3.png "My Image")
 * **Step-6:-** Open Merge Your Bulk Files Into One Tool and enter your name and upload this Invoice and AWB folder in choose the file field and click upload button.
-![My Image](bulk_m4.png "My Image")
+![My Image](Bulk_m4.png "My Image")
 * **Step-7:-** After completion of this program, download the file using download report button.
-![My Image](bulk_m5.png "My Image")
+![My Image](Bulk_m5.png "My Image")
 * **Step-8:-** Now, Extract this downloaded file and there is a pdf with invoices and AWBs for bulk orders.
 * **Step-9:-** Send this Bulk PDF via Email to Warehouse Department. So that it is easy for them to pack the product with Invoice and AWB.
 
