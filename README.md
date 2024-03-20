@@ -545,8 +545,9 @@ This is the request new link template image.
 ## View Backend  
 > [!NOTE]
 >  We are not using this View Backend, to upload the files in backend we are using in “VIEW DASHBOARD” and in that you can see “Upload Backend Files” as show in below image.
+
 ![My Image](back1.png "My Image")
- Here we are uploading directly.  
+Here we are uploading directly.  
 
 ### WHY THIS BACKEND TEMPLATE:
 We must print the air waybill and invoice bill after product verification.
