@@ -491,7 +491,7 @@ This is the bulk confirmation template.
 * **Step1:** Open Warehouse and click on side menu, move to Orders, and click on it, there you can see an option: Bulk Confirm.
 * **Step2:** Click on the Bulk Confirm and you can see the bulk confirmation templates as shown in above image.
 * **Step3:** Now click on download template, it downloads one excel sheet. 
-![My Image](o2.png "My Image")
+* ![My Image](o2.png "My Image")
 * **Step4:** Here you can see the required fields in above image, now fill that fields where the data available in order verification sheet and save the file.
 * **Step5:** Now open template and click on choose file and upload the saved file.
 * **Step6:** Now the code runs and confirm the orders in bulk. 
