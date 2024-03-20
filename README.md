@@ -1,5 +1,7 @@
 # Tools-Docs
 Informational guides for users about all the existing tools
+# USER GUIDE TO USE KEYWORD TOOL
+#
 # USER GUIDE TO USE BUY BOX API 
 ### 1.AMAZON Buy Box eligibility factors:  
 
@@ -257,4 +259,7 @@ This tool is helpful for **FULFILLMENT** Department to distinguish the products 
 * **Step-4:-** Download the barcodes Using Download Reports Button.
   
 * **Step-5:-** They will stick these barcodes to the products.
+
+#
+#
 
