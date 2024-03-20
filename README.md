@@ -216,7 +216,30 @@ The Buy Box API will take no. of ASINS and produces the table of products data. 
 1.	Some products are displaying FALSE in Is Buy Box field even though the products are already in Buy Box (TRUE).
 #
 
+# USER GUIDE TO USE PRODUCT IMAGE TOOL
+### 1.	Why this tool:
+*	For doing technical write up and catalogue.
+*	We should provide the CUSTOMS SHEET to CUSTOMS DEPARTMENT.
+*	So, in that sheet we must provide the shipment details like (IMAGE, TITLE, END USER, CATAGORIES).
+*	In this sheet except IMAGE remaining, they will fill the data by manually.
+*	So, by filling manually they take more time, and they can’t reach their targets.
+*	To overcome all this issues PRODUCT IMAGE TOOL, play major role.
 
+### 2.	How it works:
+The main task of this tool is to provide the image URLs. 
+
+### 3.	How to use it:
+* **Step 1:** First operation team will get all the bulk shipment ASINS in on excel sheet.
+* **Step2:** Now operation team will upload this ASINS in “asins_list” text file.
+**The above image represents the program file where you can find the .exe file which is use to run the program, and “asins_list” and “image_data” text file are also available in the same folder.**
+* **Step 3:** Now after running the program, it will provide all the image URLs automatically by checking the ASINS in “asins_list”.
+**In the above image you can see the output of bulk ASINS.**
+
+* **Step4:** Now after program completed all the URLs will be displayed in “image_data” text file.
+**In the above image you can see the output of Shipment Product image links.**
+**Step 4:** And this “image_data” text file is used in IMAGE DOCX TOOL to convert the URLs to images.
+
+### 4.	Any updates required:
 
 #
 # USER GUIDE TO USE IMAGE DOCX TOOL  
