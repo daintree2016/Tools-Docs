@@ -343,7 +343,7 @@ Uploads field is used to upload the shipment data. In that field contains Manual
 
 **Manual(single):**   
 * **Step-1:-** In this field, we need to fill the form to enter a single product.
-    ![My Image](wim9.png "My Image")
+![My Image](wim9.png "My Image")
 
 ## BARCODES  
 BARCODES field is used to print the barcodes using PUID. To label the products.  
@@ -352,18 +352,18 @@ This tool is helpful for **FULFILLMENT** Department to distinguish the products 
 
 ### 2.HOW TO USE THIS TOOL:  
 * **Step-1:-** Open WIM and click on Barcodes field in menu and select Generate Barcodes.
- ![My Image](wim10.png "My Image")
+![My Image](wim10.png "My Image")
   
 * **Step-2:-** Enter PUIDs that you want to generate barcodes.
   
 * **Step-3:-** Generate the barcodes using Generate Barcodes button.
-   ![My Image](wim11.png "My Image")
+![My Image](wim11.png "My Image")
   
 * **Step-4:-** Download the barcodes Using Download Reports Button.
-    ![My Image](wim12.png "My Image")
+![My Image](wim12.png "My Image")
   
 * **Step-5:-** They will stick these barcodes to the products.
-    ![My Image](wim13.png "My Image")
+![My Image](wim13.png "My Image")
 
 #
 #
