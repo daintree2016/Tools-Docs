@@ -63,10 +63,52 @@ Informational guides for users about all the existing tools
 * **Step5 :** Now operation team manually check these ASINS in amazon seller central and if the product has  less number of sellers and high rating then they will add this particular ASIN to listing.
   
 ### 4.	Any updates required
-*	By using this tool we are fetching only ASINS, but they requirement is to fetch the product TITLES  along with the ASINS. 
+*	By using this tool we are fetching only ASINS, but they requirement is to fetch the product TITLES  along with the ASINS.
+  
+# 
 
+# USER GUIDE TO USE SIMPLE DOT COM TOOL
+### 1.Why this Tool:  
+
+This Simple Dot Com tool is used to upload the products in bulk, this tool makes operations department’s work easy by providing all the related fields which are required to upload the products in amazon seller central.
+Before this tool, they used to enter data manually.
+
+### 2.How it works:  
+
+It takes bulk ASINS as input and provides all related data.
+
+### 3.How to use it:  
+
+* **Step-1:-** Open Simple Dot Com and paste the listing data ASINS which we want to bulk upload in amazon.in and click submit button.
+  
+![My Image](s1.png "My Image")  
+
+* **Step-2:-** Simple Dot Com program  automatically produces the output excel sheet which contains ASINS and their related fields including PRICE converted to Indian currency that used to upload the data in Amazon seller central.
+  
+![My Image](s2.png "My Image")  
+
+* **Step-3:-** Now, download this sheet and Copy only required fields like ASIN , SKU , TITLE , BRAND NAME ,PRICE and WEIGHT data.
+  
+* **Step-4:-** And paste these 6 fields in Bulk formula sheet and the formula  will produce SALE PRICE and MRP which are also important to upload products using FLAT file.
+  
+![My Image](s3.png "My Image")  
+
+* **Step-5:-** Open Amazon’s FLAT file provided by Amazon and Paste the data. And save the file with txt (tab delimiter) extension.
+  
+![My Image](s4.png "My Image")  
+
+* **Step-6:-** Now, Open amazon seller central and upload this FLAT file and click submit products.
+  
+![My Image](s5.png "My Image")  
+
+* **Step-7:-** Then Amazon itself automatically uploads this bulk data in Amazon.in.
+  
+* **Step-8:-** Now, this data is visible to our amazon customers and shows seller as Peach imports.
+  
+### 4.Any Updates (If required): 
 
 #
+
 # USER GUIDE TO USE BUY BOX API 
 ### 1.AMAZON Buy Box eligibility factors:  
 
@@ -111,48 +153,6 @@ The Buy Box API will take no. of ASINS and produces the table of products data. 
 ### 5.Any Updates (If required):  
 
 1.	Some products are displaying FALSE in Is Buy Box field even though the products are already in Buy Box (TRUE).
-
-#
-
-# USER GUIDE TO USE SIMPLE DOT COM TOOL
-### 1.Why this Tool:  
-
-This Simple Dot Com tool is used to upload the products in bulk, this tool makes operations department’s work easy by providing all the related fields which are required to upload the products in amazon seller central.
-Before this tool, they used to enter data manually.
-
-### 2.How it works:  
-
-It takes bulk ASINS as input and provides all related data.
-
-### 3.How to use it:  
-
-* **Step-1:-** Open Simple Dot Com and paste the listing data ASINS which we want to bulk upload in amazon.in and click submit button.
-  
-![My Image](s1.png "My Image")  
-
-* **Step-2:-** Simple Dot Com program  automatically produces the output excel sheet which contains ASINS and their related fields including PRICE converted to Indian currency that used to upload the data in Amazon seller central.
-  
-![My Image](s2.png "My Image")  
-
-* **Step-3:-** Now, download this sheet and Copy only required fields like ASIN , SKU , TITLE , BRAND NAME ,PRICE and WEIGHT data.
-  
-* **Step-4:-** And paste these 6 fields in Bulk formula sheet and the formula  will produce SALE PRICE and MRP which are also important to upload products using FLAT file.
-  
-![My Image](s3.png "My Image")  
-
-* **Step-5:-** Open Amazon’s FLAT file provided by Amazon and Paste the data. And save the file with txt (tab delimiter) extension.
-  
-![My Image](s4.png "My Image")  
-
-* **Step-6:-** Now, Open amazon seller central and upload this FLAT file and click submit products.
-  
-![My Image](s5.png "My Image")  
-
-* **Step-7:-** Then Amazon itself automatically uploads this bulk data in Amazon.in.
-  
-* **Step-8:-** Now, this data is visible to our amazon customers and shows seller as Peach imports.
-  
-### 4.Any Updates (If required):
 
 #
 # USER GUIDE TO USE IMAGE DOCX TOOL  
