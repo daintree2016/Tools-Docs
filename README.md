@@ -337,16 +337,74 @@ This tool is used to verify the shipment products. Whenever we receive the shipm
    *	ONLINE IMAGE DOCX
 ### 10.	 ADMIN USER
 
-### 11.	 DEVELOPER
+### 11.	 DEVELOPER  
+
 # 1.DASHBOARD:
 ### WHY THIS TEMPLATE:
-This template is helpful for FULFILMENT DEPARTMENT. They will upload the bulk file here itself, later in dashboard you can see all the shipment details.
-### 1.HOW IT WORKS:
+This template is helpful for **FULFILMENT DEPARTMENT**. They will upload the bulk file here itself, later in dashboard you can see all the shipment details.
+### HOW IT WORKS:
 1. In dashboard we can see Bulk Upload and Single Upload buttons, upcoming shipment data, and we can also download the Available stock data, Unavailable Stock data, Complete data.
+2. Available stock means the stock which is available in our warehouse.
+3. Unavailable stock means the stock which is not available in our warehouse.
+4. In search bar we can search any ASIN details and below we can see the total result.
+5. In some cases the fulfilment team will manually update the “Availability” field.
+6. Bulk upload is used upload the bulk data to project all the data on dashboard.
 
+### HOW TO USE BULK UPLOAD:
+* **Step1:** Open Warehouse dashboard there you can see the bulk upload button.
+* **Step2:** Now click the bulk upload button, then you can see the interface of it as shown in below image.
+* **Step3:** Click of\n Download Template, here the excel sheet will download.
+* **Step4:** Fill the data according to the shipment sheet.
+* **Step5:** Upload this downloaded file in chose file and click submit.
+* **Step6:** There is one more option **Update Data** this is used to update any fields except ASIN. 
+* **Step7:** To update this first click on download template in Update Data.
+* **Step9:** Now the excel sheet will downloads, here based on product PUID we must do update.
+* **Step10:** Now upload the updated file by clicking on choose file and click submit.
+#
+# 2.RETURNS:
+In returns we have 2 options one is **MANAGE RETURNS** and another one is **RETURN FREQUENCY.**  
 
+## MANAGE RETURNS:  
+### WHY THIS TEMPLATE:
+This template is helpful for **FULFILMENT DEPARTMENT**. They used to manage the returns and update the product status based on the conditions.
 
-## REPORTS
+  
+The above image is for **MANGE RETURNS.**
+
+### HOW IT WORKS:
+
+1.	The fulfilment team will deal with this returns template, after getting the returns they provide product id or order id or ASIN or PUID in input filed.
+2.	Now they get the total information on that product, based on the return product condition they will update the “Availability field”. 
+3.	If it’s good, then they will update it as RESTOCK if product is fake then they will update it as fake and if the product got used and it looks with multiple scratches then they update it as “Add to bin”.
+4.	This is about MANAGE RETURNS.
+   
+### HOW TO USE:  
+
+* **Step1:** Open Warehouse and click on side menu, move to returns and click on it, there you can see 2 sub-options one is MANAGE RETURNS another one is RETURN FREQUENCY.
+* **Step2:** Click on MANAGE RETURNS and there you can see the input filed, in that field provide order id it will show the complete information of that returned product.
+* **Step3:** Now fulfilment team will check the product physically and base on the product condition they will update the “Availability field”
+ 
+## RETURN FREQUENCY:  
+
+### WHY THIS TEMPLATE:  
+
+This template is helpful for **FULFILMENT DEPARTMENT**. They used to check the product return count and if the count got repeated multiple times, then it will directly move to BIN.  
+
+The above image is for **RETURN FREQUENCY.**  
+
+### HOW IT WORKS:
+1.	This template is used to check the count of product return.
+2.	The fulfilment team will deal with this return’s frequency template. They provide product id or order id or ASIN or PUID in input filed.
+3.	To check the count of product got returned. 
+4.	If the product got returned multiple times, then it will move to “bin”.
+
+### HOW TO USE:
+* **Step1:** Open Warehouse and click on side menu, move to returns and click on it, there you can see 2 sub-options one is MANAGE RETURNS another one is RETURN FREQUENCY.
+* **Step2:** Click on RETURN FREQUENCY and there you can see the input filed in that field provide order id it will show the complete information of that returned product.
+* **Step3:** Now the operation team will check the product and when it crosses the return count then it will move to “BIN”. The return count should be 0, but if the product gets return more than 2 times then they will consider that product is unsellable product. 
+#
+
+# 3.REPORTS
 Reports field is used to maintain the stock reports. This Reports field will show all the products in monthly wise reports, Stock reports, shipment wise reports.  
 ### 1.WHY THIS TOOL:  
 The Reports field is helpful for **WAREHOUSE** Department to maintain and manage the WAREHOUSE Stock. By using this tool, they will  update the stock details like PROACTIVE and REACTIVE to SIR.  
@@ -391,8 +449,8 @@ The Reports field is helpful for **WAREHOUSE** Department to maintain and manage
 
 **DATE REPORTS:**  
 * **Step-1:-** Enter the start date and the end date and click submit button.
-
-## HISTORY  
+#
+# 4.HISTORY  
 History is used to know what the updates or actions are done in the WIM at what time and how has done that action.  
 
 ### 1.WHY THIS TOOL:  
@@ -403,8 +461,40 @@ This tool is helpful for FULFILMENT Department to know daily updates and history
   ![My Image](wim8.png "My Image")
 
 * **Step-2:-**
+#
+# 5.ORDERS:  
 
-## UPLOADS  
+## Bulk Confirm   
+
+### WHY THIS TEMPLATE:
+This template is helpful for **FULFILMENT DEPARTMENT**. They used this template to upload the order list data to confirm the orders in BULK.
+
+### HOW IT WORKS:
+1.	In this Bulk Confirm template, after order verification they will download the template and after downloading it shows an excel sheet.
+2.	 In that they will fill the data from order confirm sheet into new downloaded sheet in the fields of ASIN, Order id, Quantity, Shipment number, Order type.
+3.	 And they save that file and that file they will upload into bulk confirmation template, now in backend code will automatically confirm the orders where it changes the status Reactive into order confirmed with order id.
+
+This is the bulk confirmation template.
+4.	Before using this template, the operation team will do the confirmation in manually then it took lot of time to confirm the orders, because the order count will be more than 200.
+5.	So, after introducing this bulk confirmation template, it will automatically do the order confirmation. 
+6.	Before order confirmation, the template will cross check the order confirmation sheet if all the criteria will satisfy then only the orders will be confirmed. 
+7.	CRITERIA: All the ASINS, product title, and order verification sheet and shipment sheet should merge.
+8.	If in cases the ordered ASIN and offer ASIN will miss match, then fulfilment team will update it manually in dashboard.  
+
+### HOW TO USE:
+* **Step1:** Open Warehouse and click on side menu, move to Orders, and click on it, there you can see an option: Bulk Confirm.
+* **Step2:** Click on the Bulk Confirm and you can see the bulk confirmation templates as shown in above image.
+* **Step3:** Now click on download template, it downloads one excel sheet. 
+ 
+* **Step4:** Here you can see the required fields in above image, now fill that fields where the data available in order verification sheet and save the file.
+* **Step5:** Now open template and click on choose file and upload the saved file.
+* **Step6:** Now the code runs and confirm the orders in bulk. 
+#
+
+# 6.SHIPMENTS:
+
+
+# UPLOADS  
 Uploads field is used to upload the shipment data. In that field contains Manual(single), New Data (Bulk) and Edit old (Bulk).  
 
 ### 1.WHY THIS TOOL:  
