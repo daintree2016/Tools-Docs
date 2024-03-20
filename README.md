@@ -537,8 +537,9 @@ This is the request new link template image.
 * **Step11:** After clicking on “print AWB” and “print invoice”, if the bills consist of then you can see the bills as shown in the below images.
 ![My Image](ship7.png "My Image")
 
-This is Air Waybill.
-![My Image](ship8.png "My Image") 
+This is Air Waybill.  
+
+![My Image](ship8.png "My Image")   
 
 This is Invoice bill.
 
