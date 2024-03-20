@@ -338,10 +338,7 @@ This tool is used to verify the shipment products. Whenever we receive the shipm
 ### 10.	 ADMIN USER
 
 ### 11.	 DEVELOPER
-
-
 # 1.DASHBOARD:
-
 ### WHY THIS TEMPLATE:
 This template is helpful for FULFILMENT DEPARTMENT. They will upload the bulk file here itself, later in dashboard you can see all the shipment details.
 ### 1.HOW IT WORKS:
