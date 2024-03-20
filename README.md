@@ -524,20 +524,20 @@ This is the request new link template image.
 ![My Image](ship1.png "My Image")
 * **Step4:** Fill the input fields and click on submit. 
 * **Step5:** Now the new link will generate with the shipment id.
-![My Image](ship5.png "My Image")
+![My Image](ship3.png "My Image")
 * **Step6:** After clicking on new link, alert box will appear and ask your name to identify who is operating that template. So, enter your name.
-![My Image](ship6.png "My Image")
+![My Image](ship4.png "My Image")
 * **Step7:** Now check the product with ASIN or TITLE, if details match bubble it, then it turns into black colour that means the product was matched and verified.
 * **Step8:** Now click on “check Orders” if there are no orders to both PEACH and BLUMAPLE then empty table will appears as shown in below image.
-![My Image](ship7.png "My Image")
+![My Image](ship5.png "My Image")
 * **Step9:** Now click the next product “check order” button if the order is there for PEACH, then table data shows to peach if it’s there for BLUMAPLE then according to that it shows the table data as shown in below image.
-![My Image](ship8.png "My Image")
+![My Image](ship6.png "My Image")
   Here you can see the order is there for PEACH and BLUMAPLE is empty.
 * **Step10:** Now click on “print AWB” and “print invoice”, it shows you the airway and invoice bill’s if the operation team uploads the merged file in backend. 
 * **Step11:** After clicking on “print AWB” and “print invoice”, if the bills consist of then you can see the bills as shown in the below images.
-![My Image](ship9.png "My Image")
+![My Image](ship7.png "My Image")
   This is Air Waybill.
-![My Image](ship10.png "My Image")
+![My Image](ship8.png "My Image")
   This is Invoice bill.
 
 * **Step12:** Now click on “done” to do outbound. And the product will deliver to customer.
