@@ -16,6 +16,8 @@ Informational guides for users about all the existing tools
  
 * **Step1 :**   Open KEYWORD program and run the program
 * **Step2 :**  Now after code runs we have to give USERNAME, PASSWORD, PRODUCT SEARCH TITLE
+![My Image](keyimg1.png "My Image")
+  
 * **Step3 :**  And now the program provide all the ASINS in terminal that indicates completion  of the program.
 * **Step4 :** Now this ASINS will display into EXCELL SHEET, where the sheet present in same code file and now by using this tools the listing process will become easy and simplified
 * **Step5 :** Now operation team manually check these ASINS in amazon seller central and if the product has  less number of sellers and high rating then they will add this particular ASIN to listing.
