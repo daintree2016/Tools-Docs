@@ -108,6 +108,39 @@ It takes bulk ASINS as input and provides all related data.
 ### 4.Any Updates (If required): 
 
 #
+# USER GUIDE TO USE AUTO PRICING CALCULATOR TOOL  
+### 1.Why this tool:  
+
+This **AUTO PRICING CALCULATOR** tool is used to update the product price automatically in amazon.in whenever there any change in price in amazon.com.
+Before this tool they used to update the prices manually which will take days to complete the work. But this tool completes the work in minutes.  
+
+### 2.How it works:  
+
+This auto pricing calculator takes ASINS as input and produces the fields like SP, MRP, MIN price and MAX price. Which are used in auto pricing to achieve **BUY BOX**.  
+
+### 3.How to use it:  
+
+**Step-1:-** Open Auto pricing calculator contains tool and paste the ASINS in insert your queries field if you have more than one ASIN.  
+
+  ![My Image](A1.png "My Image")  
+  
+**Step-2:-** Click submit button, this will generate the downloadable file link and download the file using the download file button.  
+
+**Step-3:-** Now, open the downloaded excel sheet and it will display the updated pricing data.  
+
+  ![My Image](A2.png "My Image")  
+  
+**Step-4:-** Otherwise, use quick search field to enter single ASIN.  
+
+**Step-5:-** This quick search will directly display the updated pricing data in the current page without any external file.  
+
+![My Image](A3.png "My Image")  
+
+
+### 4.Any Updates (If required):  
+
+#
+
 
 # USER GUIDE TO USE BUY BOX API 
 ### 1.AMAZON Buy Box eligibility factors:  
@@ -187,38 +220,6 @@ This tool takes bulk data and produces the results in catalogue form which is a 
 
 #
 
-# USER GUIDE TO USE AUTO PRICING CALCULATOR TOOL  
-### 1.Why this tool:  
-
-This **AUTO PRICING CALCULATOR** tool is used to update the product price automatically in amazon.in whenever there any change in price in amazon.com.
-Before this tool they used to update the prices manually which will take days to complete the work. But this tool completes the work in minutes.  
-
-### 2.How it works:  
-
-This auto pricing calculator takes ASINS as input and produces the fields like SP, MRP, MIN price and MAX price. Which are used in auto pricing to achieve **BUY BOX**.  
-
-### 3.How to use it:  
-
-**Step-1:-** Open Auto pricing calculator contains tool and paste the ASINS in insert your queries field if you have more than one ASIN.  
-
-  ![My Image](A1.png "My Image")  
-  
-**Step-2:-** Click submit button, this will generate the downloadable file link and download the file using the download file button.  
-
-**Step-3:-** Now, open the downloaded excel sheet and it will display the updated pricing data.  
-
-  ![My Image](A2.png "My Image")  
-  
-**Step-4:-** Otherwise, use quick search field to enter single ASIN.  
-
-**Step-5:-** This quick search will directly display the updated pricing data in the current page without any external file.  
-
-![My Image](A3.png "My Image")  
-
-
-### 4.Any Updates (If required):  
-
-#
 
 # SHIPMENT VERIFICATION TOOL  
 
