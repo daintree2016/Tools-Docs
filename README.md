@@ -357,12 +357,15 @@ This tool is helpful for **FULFILLMENT** Department to distinguish the products 
 * **Step-2:-** Enter PUIDs that you want to generate barcodes.
   
 * **Step-3:-** Generate the barcodes using Generate Barcodes button.
+  
 ![My Image](wim11.png "My Image")
   
 * **Step-4:-** Download the barcodes Using Download Reports Button.
+  
 ![My Image](wim12.png "My Image")
   
 * **Step-5:-** They will stick these barcodes to the products.
+  
 ![My Image](wim13.png "My Image")
 
 #
