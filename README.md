@@ -231,11 +231,15 @@ The main task of this tool is to provide the image URLs.
 ### 3.	How to use it:
 * **Step 1:** First operation team will get all the bulk shipment ASINS in on excel sheet.
 * **Step2:** Now operation team will upload this ASINS in “asins_list” text file.
+![My Image](productimg1.png "My Image")
+![My Image](productimg2.png "My Image")  
 **The above image represents the program file where you can find the .exe file which is use to run the program, and “asins_list” and “image_data” text file are also available in the same folder.**
 * **Step 3:** Now after running the program, it will provide all the image URLs automatically by checking the ASINS in “asins_list”.
+![My Image](productimg3.png "My Image")  
 **In the above image you can see the output of bulk ASINS.**
 
 * **Step4:** Now after program completed all the URLs will be displayed in “image_data” text file.
+![My Image](productimgL.png "My Image")  
 **In the above image you can see the output of Shipment Product image links.**
 **Step 4:** And this “image_data” text file is used in IMAGE DOCX TOOL to convert the URLs to images.
 
