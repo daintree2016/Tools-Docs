@@ -1,6 +1,22 @@
 # Tools-Docs
 Informational guides for users about all the existing tools
 # USER GUIDE TO USE KEYWORD TOOL
+### 1.	Why this tool:
+
+* i)	Before this tool the listing process becomes very tough and takes more time to do the work.
+
+* ii)	So, to overcome this problem we use this KEYWORD tool and it reduced the time complexity and also the listing quantity increased.
+
+### 2.	How it work : 
+
+* i)	This tool is used to get all the ASINS of particular product ( ex: IPHONE ).
+* ii)	And after fetching all the ASINS  the listing work will becomes  simplified. 
+
+### 3.	How to use it : 
+ 
+* **Step1 :**   Open KEYWORD program and run the program
+* **Step2 :**  Now after code runs we have to give USERNAME, PASSWORD, PRODUCT SEARCH TITLE
+
 #
 # USER GUIDE TO USE BUY BOX API 
 ### 1.AMAZON Buy Box eligibility factors:  
