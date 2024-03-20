@@ -19,7 +19,7 @@ Informational guides for users about all the existing tools
 
 
 
-### WIM (WAREHOUSE INVENTORY MANAGEMENT )
+# WIM (WAREHOUSE INVENTORY MANAGEMENT )
 
 
 1.	SHIPMENT VERIFICATION
