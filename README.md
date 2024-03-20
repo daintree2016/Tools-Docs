@@ -366,7 +366,7 @@ This tool is helpful for **FULFILLMENT** Department to distinguish the products 
   
 * **Step-5:-** They will stick these barcodes to the products.
   
-![My Image](wim13.png "My Image")
+![My Image](wim13.jpg "My Image")
 
 #
 
