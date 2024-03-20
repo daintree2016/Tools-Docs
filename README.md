@@ -622,5 +622,29 @@ This tool is helpful for **FULFILLMENT** Department to distinguish the products 
 
 #
 
+# USER GUIDE TO USE BULK MERGING TOOL  
+### Why this tool:  
+This tool is used to merge the Invoice and Airway bill together for bulk products.
+So that it is easy for fulfilment department to pack the product with Invoice and Airway bill without searching.
+Before this tool, they used to search for the Invoice and Airway bill in the bulk data.  
+
+### How it works:
+	This Bulk merging tool takes a folder of invoices and AWBs as input and produces a pdf file that contains product Invoice first and AWB next and other product’s invoice and AWB and so on in a sorted order.
+So that it is easy for fulfilment department to get Invoice and Airway bill together for bulk products.
+
+### How to use it:
+* **Step-1:-** Open amazon seller central and select products that we receive the order.
+* **Step-2:-** Now, view the each product details and copy the tracking ID.
+* **Step-3:-** Click on the print tax invoice button and save the invoice file name as ‘Tracking ID space – space I’ (Eg:81579366260 – I.pdf)    in pdf format.  
+* **Step-4:-** Now, open BlueDart Air Way Bill(AWB) form  and fill the order details manually and save the form file name as tracking ID in pdf format.
+* **Step-5:-** Once, you get all the order’s INVOICE AND AWB in one folder.
+* **Step-6:-** Open Merge Your Bulk Files Into One Tool and enter your name and upload this Invoice and AWB folder in choose the file field and click upload button.
+* **Step-7:-** After completion of this program, download the file using download report button.
+* **Step-8:-** Now, Extract this downloaded file and there is a pdf with invoices and AWBs for bulk orders.
+* **Step-9:-** Send this Bulk PDF via Email to Warehouse Department. So that it is easy for them to pack the product with Invoice and AWB.
+
+### Any Updates (If required):
+
+
 
 
