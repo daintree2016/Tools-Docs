@@ -121,7 +121,7 @@ When we submit the bulk upload ASINS in this tool, it provides with some filed l
 ### 3. How to use it:
 
 *	**Step1:**  Upload the bulk upload ASINS in the query field.
-*	**Step 2: **It provides all the details of that ASINS. 
+*	**Step 2:** It provides all the details of that ASINS. 
 
 #
 # USER GUIDE TO USE AUTO PRICING CALCULATOR TOOL  
