@@ -131,6 +131,7 @@ Setp4: And there is one more field called RESTRICTED here the operation team wil
 
 * **Step 5:** We can also check each product result table data by uploading single ASIN of each product.
 * **Step 6:**  So, Now we can track the each person performance in operation team and also we can do update like (weight changing, updating restricted field).
+### 3.	Any updates required: 	
 #
 # USER GUIDE TO USE AUTO PRICING CALCULATOR TOOL  
 ### 1.Why this tool:  
