@@ -1,6 +1,7 @@
 # Tools-Docs
-### Informational guides for users about all the existing tools
-#AUTOMATION TOOLS
+Informational guides for users about all the existing tools
+
+### AUTOMATION TOOLS
 
 1.	SHIPMENT TRACKING - (offline)
 2.	BUY BOX - (online & offline)
