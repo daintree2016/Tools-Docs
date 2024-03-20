@@ -547,6 +547,7 @@ This is the request new link template image.
 >  We are not using this View Backend, to upload the files in backend we are using in “VIEW DASHBOARD” and in that you can see “Upload Backend Files” as show in below image.
 
 ![My Image](back1.png "My Image")
+
 Here we are uploading directly.  
 
 ### WHY THIS BACKEND TEMPLATE:
