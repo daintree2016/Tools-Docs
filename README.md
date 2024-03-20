@@ -1,5 +1,5 @@
 # Tools-Docs
-Informational guides for users about all the existing tools
+### Informational guides for users about all the existing tools
 #AUTOMATION TOOLS
 
 1.	SHIPMENT TRACKING - (offline)
@@ -18,7 +18,7 @@ Informational guides for users about all the existing tools
 
 
 
-WIM (WAREHOUSE INVENTORY MANAGEMENT )
+### WIM (WAREHOUSE INVENTORY MANAGEMENT )
 
 
 1.	SHIPMENT VERIFICATION
