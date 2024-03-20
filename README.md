@@ -629,7 +629,7 @@ So that it is easy for fulfilment department to pack the product with Invoice an
 Before this tool, they used to search for the Invoice and Airway bill in the bulk data.  
 
 ### How it works:
-	This Bulk merging tool takes a folder of invoices and AWBs as input and produces a pdf file that contains product Invoice first and AWB next and other product’s invoice and AWB and so on in a sorted order.
+This Bulk merging tool takes a folder of invoices and AWBs as input and produces a pdf file that contains product Invoice first and AWB next and other product’s invoice and AWB and so on in a sorted order.
 So that it is easy for fulfilment department to get Invoice and Airway bill together for bulk products.
 
 ### How to use it:
