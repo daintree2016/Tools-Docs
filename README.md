@@ -117,11 +117,13 @@ This tool is used for daily work updates for operation team.
 
 ### 2.	How it works: 
 When we submit the bulk upload ASINS in this tool, it provides with some filed like (index, ASIN, date, restricted, name, weight, comment)
+![My Image](newimg1.png "My Image") 
 
 ### 3. How to use it:
 
 *	**Step1:**  Upload the bulk upload ASINS in the query field.
-*	**Step 2:** It provides all the details of that ASINS. 
+*	**Step 2:** It provides all the details of that ASINS.
+![My Image](newimg2.png "My Image")  
 * **Step3:** Now it shows the result table, there you can see some fields like 
 Index, ASIN, date, restricted, name, weight, comment), now according to that fields we can check the product index, weight, ASIN, date of upload in the tool and also, we can check the person Name who was uploaded the data.
 Setp4: And there is one more field called RESTRICTED here the operation team will directly mention “no".
@@ -130,6 +132,7 @@ Setp4: And there is one more field called RESTRICTED here the operation team wil
 > Here if there is any product got restricted, then operation team will update restricted field to “YES”
 
 * **Step 5:** We can also check each product result table data by uploading single ASIN of each product.
+![My Image](newimg3.png "My Image")  
 * **Step 6:**  So, Now we can track the each person performance in operation team and also we can do update like (weight changing, updating restricted field).
 ### 3.	Any updates required: 	
 #
