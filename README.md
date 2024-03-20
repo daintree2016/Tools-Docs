@@ -1,5 +1,37 @@
 # Tools-Docs
 Informational guides for users about all the existing tools
+#AUTOMATION TOOLS
+
+1.	SHIPMENT TRACKING - (offline)
+2.	BUY BOX - (online & offline)
+3.	KEY WORD -  (offline)
+4.	SIMPLE DOT COM - (online)
+5.	PRICE UPDATION - (online)
+6.	PRODUCT IMAGE - (offline)
+7.	IMAGE DOCX - (online)
+8.	NEW INVENTORY LIST - (online)
+9.	BULK MERGING - (online)
+10.	NEW ORDERS TRACKING - (offline)
+11.	BULK PDF READER - (online)
+12.	REFUND PROGRAM - (offline)
+
+
+
+
+WIM (WAREHOUSE INVENTORY MANAGEMENT )
+
+
+1.	SHIPMENT VERIFICATION
+2.	ASIN AVAILABILITY 
+3.	INVENTORY STOCK REPORT
+4.	SHIPMENT REPORT
+5.	PU ID BARCODE
+6.	RETURNS
+7.	REFUNDS 
+8.	UPDATION HISTORY 
+
+
+#
 # USER GUIDE TO USE KEYWORD TOOL
 ### 1.	Why this tool:
 
