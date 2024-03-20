@@ -536,9 +536,11 @@ This is the request new link template image.
 * **Step10:** Now click on “print AWB” and “print invoice”, it shows you the airway and invoice bill’s if the operation team uploads the merged file in backend. 
 * **Step11:** After clicking on “print AWB” and “print invoice”, if the bills consist of then you can see the bills as shown in the below images.
 ![My Image](ship7.png "My Image")
-  This is Air Waybill.
-![My Image](ship8.png "My Image")
-  This is Invoice bill.
+
+This is Air Waybill.
+![My Image](ship8.png "My Image") 
+
+This is Invoice bill.
 
 * **Step12:** Now click on “done” to do outbound. And the product will deliver to customer.
 
@@ -559,13 +561,19 @@ Afte uploading the merge file the pdf will moves to shipment order details page,
 ### HOW TO USE: 
 * **Step1:** Open Warehouse and click on side menu, move to Shipments, and click on it, there you can see two options one is View Dashboard; another one is View Backend.
 * **Step2:** Click on “View Dashboard” now you see the shipment verification dashboard.
+
 ![My Image](ship2.png "My Image")
+
 * **Step3:** Click on “Request New Link” it shows you “Shipment Verification Link Request form” template. 
 * **Step4:** Click on “Backend Files” then you can see Backend Data Files Management Page.
+  
 ![My Image](back2.png "My Image")
+
 * **Step5:** Click on choose file and upload the bulk merge file.
+
 ![My Image](back3.png "My Image")
-  In this image we can see both air waybill and invoice bill are merged into one pdf.
+
+In this image we can see both air waybill and invoice bill are merged into one pdf.
 * **Step6:** Give all the order id in second input filed.
 * **Step7:** Give all the tracking id in third input filed and click upload.
 * **Step8:** Now successfully file got uploaded and all the bills will be available to take print.
