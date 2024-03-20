@@ -406,14 +406,14 @@ The above image is for **RETURN FREQUENCY.**
 
 # 3.REPORTS
 Reports field is used to maintain the stock reports. This Reports field will show all the products in monthly wise reports, Stock reports, shipment wise reports.  
-### 1.WHY THIS TOOL:  
+### WHY THIS TOOL:  
 The Reports field is helpful for **WAREHOUSE** Department to maintain and manage the WAREHOUSE Stock. By using this tool, they will  update the stock details like PROACTIVE and REACTIVE to SIR.  
 
 ![My Image](wim1.png "My Image")  
 
-### 2.HOW TO USE THIS TOOL:  
-
-**STOCK REPORTS:**
+### HOW TO USE THIS TOOL:  
+  
+## STOCK REPORTS:
 * **Step-1:-** Open WIM and click on Reports field in menu and select Stock Reports.
 
  ![My Image](wim2.png "My Image")  
@@ -426,7 +426,7 @@ The Reports field is helpful for **WAREHOUSE** Department to maintain and manage
 
 * **Step-4:-** We can download this data using download data button.
 
-**SHIP WISE REPORTS:**  
+## SHIP WISE REPORTS:
 * **Step-1:-** Select the Ship code then it will produces the Shipment Wise Records.
 
 * **Step-2:-** The Dynamic Stock table represents the overall stock that is PROACTIVE and REACTIVE in that particular Shipment.
@@ -440,23 +440,23 @@ The Reports field is helpful for **WAREHOUSE** Department to maintain and manage
 
 * **Step-5:-** The Shipment products are REACTIVE by Default and They use convert the balance stock to Proactive button to Convert the remaining products after outbound to Proactive.
 
-**DATE WISE REPORTS:**  
+## DATE WISE REPORTS:  
 
 * **Step-1:-** Enter the start date and the end date and click submit button.
 
 * **Step-2:-** It will produces the date wise reports.
 ![My Image](wim7.png "My Image")
 
-**DATE REPORTS:**  
+## DATE REPORTS: 
 * **Step-1:-** Enter the start date and the end date and click submit button.
 #
 # 4.HISTORY  
 History is used to know what the updates or actions are done in the WIM at what time and how has done that action.  
 
-### 1.WHY THIS TOOL:  
+### WHY THIS TOOL:  
 This tool is helpful for FULFILMENT Department to know daily updates and history.  
 
-### 2.HOW TO USE THIS TOOL:  
+### HOW TO USE THIS TOOL:  
 * **Step-1:-** Open WIM click on History in Menu and it will produces all the log data.
   ![My Image](wim8.png "My Image")
 
@@ -492,26 +492,89 @@ This is the bulk confirmation template.
 #
 
 # 6.SHIPMENTS:
+## 	View Dashboard  
+### WHY THIS TEMPLATE:
+This template is helpful for **WAREHOUSE DEPARTMENT.** They use this template to confirm and check the products by comparing the received products and ordered products.  
+
+### HOW IT WORKS:
+1.	In this Shipments there are 2 options one is **“View Dashboard”**, and another one is **“View Backend”**. 
+2.	Here in this **“View Dashboard”** when there is new shipment then they will request for new link.
+   
+This is the request new link template image.
+3.	After once the link is generated, through the link the warehouse department will check all the delivered products.
+4.	If received product matches to ordered product then they will do Inbound.
+5.	And if the order available then they will Outbound that product
+6.	Before outbound they should download the air waybill and invoice bill without those bills, they can’t outbound the product.
+7.	To download those both air way and invoice bill first **OPERATIONS TEAM** will upload the merged air way and invoice bill pdf file in backend template.
+8.	After completing the outbound process, the product delivers to customer.
+
+### HOW TO USE:
+* **Step1:** Open Warehouse and click on side menu, move to Shipments, and click on it, there you can see two options one is View Dashboard; another one is View Backend.
+  
+* **Step2:** Click on **“View Dashboard”** now you see the shipment verification dashboard.
+* **Step3:** Click on **“Request New Link”** it shows you **“Shipment Verification Link Request form”** template.
+* **Step4:** Fill the input fields and click on submit. 
+* **Step5:** Now the new link will generate with the shipment id.
+* **Step6:** After clicking on new link, alert box will appear and ask your name to identify who is operating that template. So, enter your name.
+* **Step7:** Now check the product with ASIN or TITLE, if details match bubble it, then it turns into black colour that means the product was matched and verified.
+* **Step8:** Now click on “check Orders” if there are no orders to both PEACH and BLUMAPLE then empty table will appears as shown in below image.
+* **Step9:** Now click the next product “check order” button if the order is there for PEACH, then table data shows to peach if it’s there for BLUMAPLE then according to that it shows the table data as shown in below image.
+  Here you can see the order is there for PEACH and BLUMAPLE is empty.
+* **Step10:** Now click on “print AWB” and “print invoice”, it shows you the airway and invoice bill’s if the operation team uploads the merged file in backend. 
+* **Step11:** After clicking on “print AWB” and “print invoice”, if the bills consist of then you can see the bills as shown in the below images.
+  This is Air Waybill.
+
+  This is Invoice bill.
+
+* **Step12:** Now click on “done” to do outbound. And the product will deliver to customer.
+
+## View Backend  
+> [!NOTE]
+>  We are not using this View Backend, to upload the files in backend we are using in “VIEW DASHBOARD” and in that you can see “Upload Backend Files” as show in below image.
+
+ Here we are uploading directly.  
+
+### WHY THIS BACKEND TEMPLATE:
+We must print the air waybill and invoice bill after product verification.
+To print those bills here, we must upload the files in backend.  
+
+### HOW IT WORKS:
+Afte uploading the merge file the pdf will moves to shipment order details page, there when we click on invoice and airway bill then the bills will visible.
+### HOW TO USE: 
+* **Step1:** Open Warehouse and click on side menu, move to Shipments, and click on it, there you can see two options one is View Dashboard; another one is View Backend.
+* **Step2:** Click on “View Dashboard” now you see the shipment verification dashboard.
+* **Step3:** Click on “Request New Link” it shows you “Shipment Verification Link Request form” template. 
+* **Step4:** Click on “Backend Files” then you can see Backend Data Files Management Page.
+* **Step5:** Click on choose file and upload the bulk merge file.
+  In this image we can see both air waybill and invoice bill are merged into one pdf.
+* **Step6:** Give all the order id in second input filed.
+* **Step7:** Give all the tracking id in third input filed and click upload.
+* **Step8:** Now successfully file got uploaded and all the bills will be available to take print.
+* **Step9:** In second division you can see the search your files here, this field helps you to find the file was uploaded or not.
 
 
-# UPLOADS  
+#
+
+# 7.UPLOADS  
 Uploads field is used to upload the shipment data. In that field contains Manual(single), New Data (Bulk) and Edit old (Bulk).  
 
-### 1.WHY THIS TOOL:  
+### WHY THIS TOOL:  
 Uploads field is used to upload the shipment data. In that field contains Manual(single), New Data (Bulk) and Edit old (Bulk).  
 
-### 2.HOW TO USE THIS TOOL:  
+### HOW TO USE THIS TOOL:  
 
 **Manual(single):**   
 * **Step-1:-** In this field, we need to fill the form to enter a single product.
 ![My Image](wim9.png "My Image")
 
-## BARCODES  
+#
+
+## 8.BARCODES  
 BARCODES field is used to print the barcodes using PUID. To label the products.  
-### 1.WHY THIS TOOL:  
+### WHY THIS TOOL:  
 This tool is helpful for **FULFILLMENT** Department to distinguish the products using these barcodes and easy to Restock the products.
 
-### 2.HOW TO USE THIS TOOL:  
+### HOW TO USE THIS TOOL:  
 * **Step-1:-** Open WIM and click on Barcodes field in menu and select Generate Barcodes.
 ![My Image](wim10.png "My Image")
   
