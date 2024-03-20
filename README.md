@@ -108,6 +108,22 @@ It takes bulk ASINS as input and provides all related data.
 ### 4.Any Updates (If required): 
 
 #
+
+# USER GUIDE TO USE NEW INVENTORY LISTING
+
+### 1.	Why this tool:
+When operation team is done with their listing work we have to update the new list data, through that data we can check each members performance and can also update weight of the product, if the weight doesn’t match after stock delivered.
+This tool is used for daily work updates for operation team.
+
+### 2.	How it works: 
+When we submit the bulk upload ASINS in this tool, it provides with some filed like (index, ASIN, date, restricted, name, weight, comment)
+
+### 3. How to use it:
+
+*	**Step1:**  Upload the bulk upload ASINS in the query field.
+*	**Step 2: **It provides all the details of that ASINS. 
+
+#
 # USER GUIDE TO USE AUTO PRICING CALCULATOR TOOL  
 ### 1.Why this tool:  
 
