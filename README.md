@@ -752,7 +752,7 @@ This tool takes bulk invoice pdfs as input and reads all the data in invoices.
 Outputs the related attributes like Order Id, Invoice No, Name, Address, ASIN and Weight.
 
 ### How to use this tool:
-* **Step-1:- ** Open Read PDFs In Bulk tool, Enter your name  and Upload the file containing Bulk invoice pdfs.
+* **Step-1:-** Open Read PDFs In Bulk tool, Enter your name  and Upload the file containing Bulk invoice pdfs.
 
 #
 
