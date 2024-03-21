@@ -753,12 +753,23 @@ Outputs the related attributes like Order Id, Invoice No, Name, Address, ASIN an
 
 ### How to use this tool:
 * **Step-1:-** Open Read PDFs In Bulk tool, Enter your name  and Upload the file containing Bulk invoice pdfs.
+  
+![My Image](rpb1.png "My Image")
+
 * **Step-2:-** Now, Click upload button and wait until the program completes.
 * **Step-3:-** After completion of program, it will display a message like  “Folder is successfully uploaded  Output Result:  Data Extraction is successful”.
+
+![My Image](rpb2.png "My Image")
+  
 * **Step-4:-** Now, download the file using download report button.
 * **Step-5:-** It will produces TSV data. Now, copy the data and paste in Excel as shown in the below image.
+  
+![My Image](rpb3.png "My Image")
+
 * **Step-6:-** This output data is used in BLUEDART Flat file to generate the AWB automatically.
 
+### Any updates (if required):
+* They requested price attribute along with all the data.
 
 
 #
