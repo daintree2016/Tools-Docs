@@ -5,7 +5,7 @@ Informational guides for users about all the existing tools
 
 1.	SHIPMENT TRACKING - (offline)
 2.	BUY BOX - (online & offline)
-3.	KEY WORD -  (offline)
+3.	KEYWORD -  (offline)
 4.	SIMPLE DOT COM - (online)
 5.	PRICE UPDATION - (online)
 6.	PRODUCT IMAGE - (offline)
