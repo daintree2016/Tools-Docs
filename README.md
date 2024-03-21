@@ -64,11 +64,17 @@ And we must enter the email id to whom you want to send notification after progr
 ![My Image](track4.png "My Image")
 
 * **Step6:** After program completion it will send the delivered data into Delivered excel sheet and there you can see the proper organized delivered data.
+
 ![My Image](track5.png "My Image")
+
 * **Step7:** And send the email message to email id which we provided before code starts.
+
 ![My Image](track6.png "My Image")
+
 Here is the email message.
+
 ![My Image](track7.png "My Image")
+
 After code completion.
 
 * **Step8:** If any product will not get the update even after the shipment date arrived then fulfilment team will mail to BLUEDART to raise the issue and get the reason updates.
