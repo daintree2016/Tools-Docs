@@ -27,7 +27,17 @@ Informational guides for users about all the existing tools
 6.	RETURNS
 7.	REFUNDS 
 8.	UPDATION HISTORY 
+#
 
+# USER GUIDE TO USE SHIPMENT TRACKING
+### 1.	Why this tool:
+This tool is used to track shipments and get updates of all the products from BLUEDART where the products are delivered or not.
+Before implementing this tool, fulfilment team gets consumed more time and done less work due to manual working. To overcome those issues, we are using this SHIPMENT TRACKING TOOL. 
+
+### 2.	How it works: 
+After running this tool, it takes the file name and sheet name. (Remember this tool is case sensitive so, we must enter the file name and sheet name as it is.)
+Now, after the code compilation it will move’s the delivered products into (Delivered Sheets).
+### 3.	How to use it:
 
 #
 # USER GUIDE TO USE KEYWORD TOOL
