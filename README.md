@@ -47,6 +47,12 @@ This is the CODE file there you can see New_shipmenttrack.exe. Click this file t
             * Rule2: we must provide correct Tracking Id.<br/>
             * Rule3: If both fields empty the code can’t read that row data.<br/>
             * Rule4: If any of these fields is empty then the program stops there.<br/>
+            
+**Here you can see both fields got filled properly.**
+
+* **Step5:** Now, after the code reads the file name and sheet name here, we must provide the starting index of your choice and ending index of your choice (your choice means from where you want to start and where you want to end by giving S NO. ex: 1-100 rows).
+And we must enter the email id to whom you want to send notification after program completed.
+
 
 
 #
