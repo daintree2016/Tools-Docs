@@ -739,7 +739,22 @@ So that it is easy for fulfilment department to get Invoice and Airway bill toge
 * **Step-9:-** Send this Bulk PDF via Email to Warehouse Department. So that it is easy for them to pack the product with Invoice and AWB.
 
 ### Any Updates (If required):
+#
 
+# USER GUIDE TO READ PDFs IN BULK
+### Why this tool:
+This tool is used to get all the related data from Bulk Invoices and produces the output in TSV (Tab Separated Values) file.
+This output data is used in BLUEDART to get Bulk AIRWAY BILLS automatically.
+Before this tool, they used to fill the AWB forms manually but this tool is very helpful to FULFILMENT DEPARTMENT.
+
+### How it works:
+This tool takes bulk invoice pdfs as input and reads all the data in invoices.
+Outputs the related attributes like Order Id, Invoice No, Name, Address, ASIN and Weight.
+
+### How to use this tool:
+* **Step-1:- ** Open Read PDFs In Bulk tool, Enter your name  and Upload the file containing Bulk invoice pdfs.
+
+#
 
 
 
