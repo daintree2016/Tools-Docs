@@ -769,7 +769,7 @@ Outputs the related attributes like Order Id, Invoice No, Name, Address, ASIN an
 * **Step-6:-** This output data is used in BLUEDART Flat file to generate the AWB automatically.
 
 ### Any updates (if required):
-* They requested price attribute along with all the data.
+* They also requested price attribute along with all the data.
 
 
 #
