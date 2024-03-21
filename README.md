@@ -481,7 +481,8 @@ This template is helpful for **FULFILMENT DEPARTMENT**. They used this template 
 3.	 And they save that file and that file they will upload into bulk confirmation template, now in backend code will automatically confirm the orders where it changes the status Reactive into order confirmed with order id.
 ![My Image](o1.png "My Image")
 
-This is the bulk confirmation template.
+This is the bulk confirmation template.  
+
 5.	Before using this template, the operation team will do the confirmation in manually then it took lot of time to confirm the orders, because the order count will be more than 200.
 6.	So, after introducing this bulk confirmation template, it will automatically do the order confirmation. 
 7.	Before order confirmation, the template will cross check the order confirmation sheet if all the criteria will satisfy then only the orders will be confirmed. 
@@ -491,8 +492,10 @@ This is the bulk confirmation template.
 ### HOW TO USE:
 * **Step1:** Open Warehouse and click on side menu, move to Orders, and click on it, there you can see an option: Bulk Confirm.
 * **Step2:** Click on the Bulk Confirm and you can see the bulk confirmation templates as shown in above image.
-* **Step3:** Now click on download template, it downloads one excel sheet. 
+* **Step3:** Now click on download template, it downloads one excel sheet.
+  
 * ![My Image](o2.png "My Image")
+  
 * **Step4:** Here you can see the required fields in above image, now fill that fields where the data available in order verification sheet and save the file.
 * **Step5:** Now open template and click on choose file and upload the saved file.
 * **Step6:** Now the code runs and confirm the orders in bulk. 
@@ -506,9 +509,11 @@ This template is helpful for **WAREHOUSE DEPARTMENT.** They use this template to
 ### HOW IT WORKS:
 1.	In this Shipments there are 2 options one is **“View Dashboard”**, and another one is **“View Backend”**. 
 2.	Here in this **“View Dashboard”** when there is new shipment then they will request for new link.
+   
 ![My Image](ship1.png "My Image")
 
-This is the request new link template image.
+This is the request new link template image.  
+
 3.	After once the link is generated, through the link the warehouse department will check all the delivered products.
 4.	If received product matches to ordered product then they will do Inbound.
 5.	And if the order available then they will Outbound that product
@@ -520,22 +525,37 @@ This is the request new link template image.
 * **Step1:** Open Warehouse and click on side menu, move to Shipments, and click on it, there you can see two options one is View Dashboard; another one is View Backend.
   
 * **Step2:** Click on **“View Dashboard”** now you see the shipment verification dashboard.
-![My Image](ship2.png "My Image")
+  
+![My Image](ship2.png "My Image")  
+
 * **Step3:** Click on **“Request New Link”** it shows you **“Shipment Verification Link Request form”** template.
-![My Image](ship1.png "My Image")
-* **Step4:** Fill the input fields and click on submit. 
+  
+![My Image](ship1.png "My Image")  
+
+* **Step4:** Fill the input fields and click on submit.
+  
 * **Step5:** Now the new link will generate with the shipment id.
-![My Image](ship3.png "My Image")
+  
+![My Image](ship3.png "My Image")  
+
 * **Step6:** After clicking on new link, alert box will appear and ask your name to identify who is operating that template. So, enter your name.
-![My Image](ship4.png "My Image")
-* **Step7:** Now check the product with ASIN or TITLE, if details match bubble it, then it turns into black colour that means the product was matched and verified.
+  
+![My Image](ship4.png "My Image")  
+
+* **Step7:** Now check the product with ASIN or TITLE, if details match bubble it, then it turns into black colour that means the product was matched and verified.  
 * **Step8:** Now click on “check Orders” if there are no orders to both PEACH and BLUMAPLE then empty table will appears as shown in below image.
-![My Image](ship5.png "My Image")
+  
+![My Image](ship5.png "My Image")  
+
 * **Step9:** Now click the next product “check order” button if the order is there for PEACH, then table data shows to peach if it’s there for BLUMAPLE then according to that it shows the table data as shown in below image.
-![My Image](ship6.png "My Image")
-  Here you can see the order is there for PEACH and BLUMAPLE is empty.
+  
+![My Image](ship6.png "My Image")  
+
+ Here you can see the order is there for PEACH and BLUMAPLE is empty.  
+  
 * **Step10:** Now click on “print AWB” and “print invoice”, it shows you the airway and invoice bill’s if the operation team uploads the merged file in backend. 
 * **Step11:** After clicking on “print AWB” and “print invoice”, if the bills consist of then you can see the bills as shown in the below images.
+  
 ![My Image](ship7.png "My Image")
 
 This is Air Waybill.  
@@ -594,6 +614,7 @@ Uploads field is used to upload the shipment data. In that field contains Manual
 
 **Manual(single):**   
 * **Step-1:-** In this field, we need to fill the form to enter a single product.
+  
 ![My Image](wim9.png "My Image")
 
 #
@@ -605,6 +626,7 @@ This tool is helpful for **FULFILLMENT** Department to distinguish the products 
 
 ### HOW TO USE THIS TOOL:  
 * **Step-1:-** Open WIM and click on Barcodes field in menu and select Generate Barcodes.
+  
 ![My Image](wim10.png "My Image")
   
 * **Step-2:-** Enter PUIDs that you want to generate barcodes.
