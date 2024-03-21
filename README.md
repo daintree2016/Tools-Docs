@@ -53,6 +53,16 @@ This is the CODE file there you can see New_shipmenttrack.exe. Click this file t
 * **Step5:** Now, after the code reads the file name and sheet name here, we must provide the starting index of your choice and ending index of your choice (your choice means from where you want to start and where you want to end by giving S NO. ex: 1-100 rows).
 And we must enter the email id to whom you want to send notification after program completed.
 
+* **Step6:** After program completion it will send the delivered data into Delivered excel sheet and there you can see the proper organized delivered data.
+* **Step7:** And send the email message to email id which we provided before code starts.
+Here is the email message.
+After code completion.
+
+* **Step8:** If any product will not get the update even after the shipment date arrived then fulfilment team will mail to BLUEDART to raise the issue and get the reason updates.
+
+### 4. Any updates required: 	
+
+
 
 
 #
