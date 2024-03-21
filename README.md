@@ -38,6 +38,16 @@ Before implementing this tool, fulfilment team gets consumed more time and done 
 After running this tool, it takes the file name and sheet name. (Remember this tool is case sensitive so, we must enter the file name and sheet name as it is.)
 Now, after the code compilation it will move’s the delivered products into (Delivered Sheets).
 ### 3.	How to use it:
+* **Step1:** Open SHIPMENT TRACKING TOOL, it automatically runs after opening the tool.
+This is the CODE file there you can see New_shipmenttrack.exe. Click this file to run the program.
+* **Step2:** Now, after the code runs it will ask you user Id and password to start the program.
+* **Step3:** After credentials verified, it will ask you file name of your google project and sheet name of your choice, here this is an important NOTE: This is completely case sensitive so we must enter the file name and sheet name as it is.
+* **Step4:** Before uploading the project file there are some rules to follow. 
+            *	Rule1: we must provide Courier field as “bluedart”.
+            *	Rule2: we must provide correct Tracking Id.
+            * Rule3: If both fields empty the code can’t read that row data.
+            * Rule4: If any of these fields is empty then the program stops there.
+
 
 #
 # USER GUIDE TO USE KEYWORD TOOL
