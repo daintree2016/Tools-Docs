@@ -413,8 +413,7 @@ The above image is for **RETURN FREQUENCY.**
 # 3.REPORTS
 Reports field is used to maintain the stock reports. This Reports field will show all the products in monthly wise reports, Stock reports, shipment wise reports.  
 ### WHY THIS TOOL:  
-The Reports field is helpful for **WAREHOUSE** Department to maintain and manage the WAREHOUSE Stock. By using this tool, they will  update the stock details like PROACTIVE and REACTIVE to SIR.  
-
+The Reports field is helpful for **WAREHOUSE** Department to maintain and manage the WAREHOUSE Stock. By using this tool, they will  update the stock details like PROACTIVE and REACTIVE to Manager.
 ![My Image](wim1.png "My Image")  
 
 ### HOW TO USE THIS TOOL:  
