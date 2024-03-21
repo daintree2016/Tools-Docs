@@ -480,12 +480,13 @@ This template is helpful for **FULFILMENT DEPARTMENT**. They used this template 
 2.	 In that they will fill the data from order confirm sheet into new downloaded sheet in the fields of ASIN, Order id, Quantity, Shipment number, Order type.
 3.	 And they save that file and that file they will upload into bulk confirmation template, now in backend code will automatically confirm the orders where it changes the status Reactive into order confirmed with order id.
 ![My Image](o1.png "My Image")
+
 This is the bulk confirmation template.
-4.	Before using this template, the operation team will do the confirmation in manually then it took lot of time to confirm the orders, because the order count will be more than 200.
-5.	So, after introducing this bulk confirmation template, it will automatically do the order confirmation. 
-6.	Before order confirmation, the template will cross check the order confirmation sheet if all the criteria will satisfy then only the orders will be confirmed. 
-7.	CRITERIA: All the ASINS, product title, and order verification sheet and shipment sheet should merge.
-8.	If in cases the ordered ASIN and offer ASIN will miss match, then fulfilment team will update it manually in dashboard.  
+5.	Before using this template, the operation team will do the confirmation in manually then it took lot of time to confirm the orders, because the order count will be more than 200.
+6.	So, after introducing this bulk confirmation template, it will automatically do the order confirmation. 
+7.	Before order confirmation, the template will cross check the order confirmation sheet if all the criteria will satisfy then only the orders will be confirmed. 
+8.	CRITERIA: All the ASINS, product title, and order verification sheet and shipment sheet should merge.
+9.	If in cases the ordered ASIN and offer ASIN will miss match, then fulfilment team will update it manually in dashboard.  
 
 ### HOW TO USE:
 * **Step1:** Open Warehouse and click on side menu, move to Orders, and click on it, there you can see an option: Bulk Confirm.
