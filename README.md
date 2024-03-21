@@ -39,23 +39,36 @@ After running this tool, it takes the file name and sheet name. (Remember this t
 Now, after the code compilation it will move’s the delivered products into (Delivered Sheets).
 ### 3.	How to use it:
 * **Step1:** Open SHIPMENT TRACKING TOOL, it automatically runs after opening the tool.
+
+![My Image](track1.png "My Image")
+
 This is the CODE file there you can see New_shipmenttrack.exe. Click this file to run the program.
 * **Step2:** Now, after the code runs it will ask you user Id and password to start the program.
+
+![My Image](track2.png "My Image")
+
 * **Step3:** After credentials verified, it will ask you file name of your google project and sheet name of your choice, here this is an important NOTE: This is completely case sensitive so we must enter the file name and sheet name as it is.
 * **Step4:** Before uploading the project file there are some rules to follow.<br/>
             * Rule1: we must provide Courier field as “bluedart”.<br/>
             * Rule2: we must provide correct Tracking Id.<br/>
             * Rule3: If both fields empty the code can’t read that row data.<br/>
             * Rule4: If any of these fields is empty then the program stops there.<br/>
-            
+
+![My Image](track3.png "My Image")
+
 **Here you can see both fields got filled properly.**
 
 * **Step5:** Now, after the code reads the file name and sheet name here, we must provide the starting index of your choice and ending index of your choice (your choice means from where you want to start and where you want to end by giving S NO. ex: 1-100 rows).
 And we must enter the email id to whom you want to send notification after program completed.
 
+![My Image](track4.png "My Image")
+
 * **Step6:** After program completion it will send the delivered data into Delivered excel sheet and there you can see the proper organized delivered data.
+![My Image](track5.png "My Image")
 * **Step7:** And send the email message to email id which we provided before code starts.
+![My Image](track6.png "My Image")
 Here is the email message.
+![My Image](track7.png "My Image")
 After code completion.
 
 * **Step8:** If any product will not get the update even after the shipment date arrived then fulfilment team will mail to BLUEDART to raise the issue and get the reason updates.
