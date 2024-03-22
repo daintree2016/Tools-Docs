@@ -362,7 +362,7 @@ This tool is used to verify the shipment products. Whenever we receive the shipm
 * **Step-7:-** Otherwise, place the product in PRO ACTIVE.
 
 ### 4.Any Updates (If required):  
-
+ 1.	They requested to print the missing products after comparing  bubbling (Verification) numbers and quantity.
 #  
 
 # USER GUID TO WAREHOUSE INVENTORY MANAGEMENT (WIM)
