@@ -30,14 +30,14 @@ Informational guides for users about all the existing tools
 #
 
 # USER GUIDE TO USE SHIPMENT TRACKING
-### 1.	Why this tool:
+### 1.Why this tool:
 This tool is used to track shipments and get updates of all the products from BLUEDART where the products are delivered or not.
 Before implementing this tool, fulfilment team gets consumed more time and done less work due to manual working. To overcome those issues, we are using this SHIPMENT TRACKING TOOL. 
 
-### 2.	How it works: 
+### 2.How it works: 
 After running this tool, it takes the file name and sheet name. (Remember this tool is case sensitive so, we must enter the file name and sheet name as it is.)
 Now, after the code compilation it will move’s the delivered products into (Delivered Sheets).
-### 3.	How to use it:
+### 3.How to use it:
 * **Step1:** Open SHIPMENT TRACKING TOOL, it automatically runs after opening the tool.
 
 ![My Image](track1.png "My Image")
@@ -52,10 +52,10 @@ This is the CODE file there you can see New_shipmenttrack.exe. Click this file t
 > This is completely case sensitive so we must enter the file name and sheet name as it is.
 
 * **Step4:** Before uploading the project file there are some rules to follow.<br/>
-            * Rule1: we must provide Courier field as “bluedart”.<br/>
-            * Rule2: we must provide correct Tracking Id.<br/>
-            * Rule3: If both fields empty the code can’t read that row data.<br/>
-            * Rule4: If any of these fields is empty then the program stops there.<br/>
+  - Rule1: we must provide Courier field as “bluedart”.<br/>
+  - Rule2: we must provide correct Tracking Id.<br/>
+  - Rule3: If both fields empty the code can’t read that row data.<br/>
+  - Rule4: If any of these fields is empty then the program stops there.<br/>
 
 ![My Image](track3.png "My Image")
 
@@ -117,8 +117,8 @@ After code completion.
 
 * **Step5 :** Now operation team manually check these ASINS in amazon seller central and if the product has  less number of sellers and high rating then they will add this particular ASIN to listing.
   
-### 4.	Any updates required
-*	By using this tool we are fetching only ASINS, but they requirement is to fetch the product TITLES  along with the ASINS.
+### 4.Any updates required
+* By using this tool we are fetching only ASINS, but they requirement is to fetch the product TITLES  along with the ASINS.
   
 # 
 
