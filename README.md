@@ -355,7 +355,7 @@ This tool is used to verify the shipment products. Whenever we receive the shipm
 * **Step-2:-** Enter the details like shipment id,
 * **Step-3:-** Now, take any product from the shipment and check for that particular product name in the shipment verification list.
 * **Step-4:-** If you find the product in the shipment list then bubble the product in verification filed. And If you find the same product in the shipment list then bubble the product again.
-    ![My Image](images/ship_ver1.png "My Image")
+    ![My Image](images/Ship_ver1.png "My Image")
 
 * **Step-5:-** Which means, the number of bubbles in each product indicates the quantity of particular product.
 * **Step-6:-** After finishing shipment products verification. Click on orders filed and if any orders are there for that particular product, then print the invoice and airway bill and pack the product.
