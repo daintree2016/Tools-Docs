@@ -40,12 +40,12 @@ Now, after the code compilation it will move’s the delivered products into (De
 ### 3.How to use it:
 * **Step1:** Open SHIPMENT TRACKING TOOL, it automatically runs after opening the tool.
 
-![My Image](track1.png "My Image")
+![My Image](images/track1.png "My Image")
 
 This is the CODE file there you can see New_shipmenttrack.exe. Click this file to run the program.
 * **Step2:** Now, after the code runs it will ask you user Id and password to start the program.
 
-![My Image](track2.png "My Image")
+![My Image](images/track2.png "My Image")
 
 * **Step3:** After credentials verified, it will ask you file name of your google project and sheet name of your choice, here this is an important
 > [!NOTE]
@@ -57,26 +57,26 @@ This is the CODE file there you can see New_shipmenttrack.exe. Click this file t
   - Rule3: If both fields empty the code can’t read that row data.<br/>
   - Rule4: If any of these fields is empty then the program stops there.<br/>
 
-![My Image](track3.png "My Image")
+![My Image](images/track3.png "My Image")
 
 **Here you can see both fields got filled properly.**
 
 * **Step5:** Now, after the code reads the file name and sheet name here, we must provide the starting index of your choice and ending index of your choice (your choice means from where you want to start and where you want to end by giving S NO. ex: 1-100 rows).
 And we must enter the email id to whom you want to send notification after program completed.
 
-![My Image](track4.png "My Image")
+![My Image](images/track4.png "My Image")
 
 * **Step6:** After program completion it will send the delivered data into Delivered excel sheet and there you can see the proper organized delivered data.
 
-![My Image](track5.png "My Image")
+![My Image](images/track5.png "My Image")
 
 * **Step7:** And send the email message to email id which we provided before code starts.
 
-![My Image](track6.png "My Image")
+![My Image](images/track6.png "My Image")
 
 Here is the email message.
 
-![My Image](track7.png "My Image")
+![My Image](images/track7.png "My Image")
 
 After code completion.
 
@@ -105,15 +105,15 @@ After code completion.
 * **Step1 :**   Open KEYWORD program and run the program
 * **Step2 :**  Now after code runs we have to give USERNAME, PASSWORD, PRODUCT SEARCH TITLE
   
-![My Image](keyimg1.png "My Image")
+![My Image](images/keyimg1.png "My Image")
   
 * **Step3 :**  And now the program provide all the ASINS in terminal that indicates completion  of the program.
   
-![My Image](keyimg2.png "My Image")  
+![My Image](images/keyimg2.png "My Image")  
 
 * **Step4 :** Now this ASINS will display into EXCELL SHEET, where the sheet present in same code file and now by using this tools the listing process will become easy and simplified
   
-![My Image](keyimg3.png "My Image")
+![My Image](images/keyimg3.png "My Image")
 
 * **Step5 :** Now operation team manually check these ASINS in amazon seller central and if the product has  less number of sellers and high rating then they will add this particular ASIN to listing.
   
@@ -136,25 +136,25 @@ It takes bulk ASINS as input and provides all related data.
 
 * **Step-1:-** Open Simple Dot Com and paste the listing data ASINS which we want to bulk upload in amazon.in and click submit button.
   
-![My Image](s1.png "My Image")  
+![My Image](images/s1.png "My Image")  
 
 * **Step-2:-** Simple Dot Com program  automatically produces the output excel sheet which contains ASINS and their related fields including PRICE converted to Indian currency that used to upload the data in Amazon seller central.
   
-![My Image](s2.png "My Image")  
+![My Image](images/s2.png "My Image")  
 
 * **Step-3:-** Now, download this sheet and Copy only required fields like ASIN , SKU , TITLE , BRAND NAME ,PRICE and WEIGHT data.
   
 * **Step-4:-** And paste these 6 fields in Bulk formula sheet and the formula  will produce SALE PRICE and MRP which are also important to upload products using FLAT file.
   
-![My Image](s3.png "My Image")  
+![My Image](images/s3.png "My Image")  
 
 * **Step-5:-** Open Amazon’s FLAT file provided by Amazon and Paste the data. And save the file with txt (tab delimiter) extension.
   
-![My Image](s4.png "My Image")  
+![My Image](images/s4.png "My Image")  
 
 * **Step-6:-** Now, Open amazon seller central and upload this FLAT file and click submit products.
   
-![My Image](s5.png "My Image")  
+![My Image](images/s5.png "My Image")  
 
 * **Step-7:-** Then Amazon itself automatically uploads this bulk data in Amazon.in.
   
@@ -172,13 +172,13 @@ This tool is used for daily work updates for operation team.
 
 ### 2.	How it works: 
 When we submit the bulk upload ASINS in this tool, it provides with some filed like (index, ASIN, date, restricted, name, weight, comment)
-![My Image](newimg1.png "My Image") 
+![My Image](images/newimg1.png "My Image") 
 
 ### 3. How to use it:
 
 *	**Step1:**  Upload the bulk upload ASINS in the query field.
 *	**Step 2:** It provides all the details of that ASINS.
-![My Image](newimg2.png "My Image")  
+![My Image](images/newimg2.png "My Image")  
 * **Step3:** Now it shows the result table, there you can see some fields like 
 Index, ASIN, date, restricted, name, weight, comment), now according to that fields we can check the product index, weight, ASIN, date of upload in the tool and also, we can check the person Name who was uploaded the data.
 Setp4: And there is one more field called RESTRICTED here the operation team will directly mention “no".
@@ -187,7 +187,7 @@ Setp4: And there is one more field called RESTRICTED here the operation team wil
 > Here if there is any product got restricted, then operation team will update restricted field to “YES”
 
 * **Step 5:** We can also check each product result table data by uploading single ASIN of each product.
-![My Image](newimg3.png "My Image")  
+![My Image](images/newimg3.png "My Image")  
 * **Step 6:**  So, Now we can track the each person performance in operation team and also we can do update like (weight changing, updating restricted field).
 ### 3.	Any updates required: 	
 #
@@ -205,19 +205,19 @@ This auto pricing calculator takes ASINS as input and produces the fields like S
 
 **Step-1:-** Open Auto pricing calculator contains tool and paste the ASINS in insert your queries field if you have more than one ASIN.  
 
-  ![My Image](A1.png "My Image")  
+  ![My Image](images/A1.png "My Image")  
   
 **Step-2:-** Click submit button, this will generate the downloadable file link and download the file using the download file button.  
 
 **Step-3:-** Now, open the downloaded excel sheet and it will display the updated pricing data.  
 
-  ![My Image](A2.png "My Image")  
+  ![My Image](images/A2.png "My Image")  
   
 **Step-4:-** Otherwise, use quick search field to enter single ASIN.  
 
 **Step-5:-** This quick search will directly display the updated pricing data in the current page without any external file.  
 
-![My Image](A3.png "My Image")  
+![My Image](images/A3.png "My Image")  
 
 
 ### 4.Any Updates (If required):  
@@ -249,15 +249,15 @@ The Buy Box API will take no. of ASINS and produces the table of products data. 
 
 * **Step-1:-**  Firstly, open Buy Box API and  paste the ASINS data in the input field and click submit button.
   
-![My Image](1.png "My Image")  
+![My Image](images/1.png "My Image")  
 
 * **Step-2:-**  It will produce the list of products , we need to download the file using download file button.
   
-![My Image](2.png "My Image")  
+![My Image](images/2.png "My Image")  
 
 * **STEP-3:-** Search for the Buy Box FALSE products in search field and copy the particular ASIN.
   
-![My Image](3.png "My Image")  
+![My Image](images/3.png "My Image")  
 
 * **Step-4:-**  Now , open Amazon Seller central and paste the ASIN and reduce the price , apply coupons , update handling time or Automate the pricing to achieve  Buy Box.
 
@@ -286,21 +286,21 @@ The main task of this tool is to provide the image URLs.
 ### 3.	How to use it:
 * **Step 1:** First operation team will get all the bulk shipment ASINS in on excel sheet.
 * **Step2:** Now operation team will upload this ASINS in “asins_list” text file.
-![My Image](productimg1.png "My Image")
+![My Image](images/productimg1.png "My Image")
 
-![My Image](productimg2.png "My Image")  
+![My Image](images/productimg2.png "My Image")  
 
 **The above image represents the program file where you can find the .exe file which is use to run the program, and “asins_list” and “image_data” text file are also available in the same folder.**  
 
 * **Step 3:** Now after running the program, it will provide all the image URLs automatically by checking the ASINS in “asins_list”.
   
-![My Image](productimg3.png "My Image")  
+![My Image](images/productimg3.png "My Image")  
 
 **In the above image you can see the output of bulk ASINS.**
 
 * **Step4:** Now after program completed all the URLs will be displayed in “image_data” text file.
   
-![My Image](productimgL.png "My Image")  
+![My Image](images/productimgL.png "My Image")  
 
 **In the above image you can see the output of Shipment Product image links.**  
 
@@ -325,15 +325,15 @@ This tool takes bulk data and produces the results in catalogue form which is a 
   
 * **Step-2:-** Now, open IMAGE DOCX and paste the ASINS and image URLs in the input field.
   
-  ![My Image](Img1.png "My Image")  
+  ![My Image](images/Img1.png "My Image")  
   
 * **Step-3:-** Click Run button and then Click download file button.
   
-  ![My Image](Img2.png "My Image")
+  ![My Image](images/Img2.png "My Image")
   
 * **Step-4:-** Now, all the IMAGES and ASINS are placed in the catalogue form(Customs format) in Docx.
   
-  ![My Image](Img3.png "My Image")
+  ![My Image](images/Img3.png "My Image")
   
 * **Step-5:-** Then, they have to fill the remaining fields like end user , category Etc and submit the form to the customs Department.
 
@@ -402,7 +402,7 @@ This tool is used to verify the shipment products. Whenever we receive the shipm
 This template is helpful for **FULFILMENT DEPARTMENT**. They will upload the bulk file here itself, later in dashboard you can see all the shipment details.
 ### HOW IT WORKS:
 1. In dashboard we can see Bulk Upload and Single Upload buttons, upcoming shipment data, and we can also download the Available stock data, Unavailable Stock data, Complete data.
-![My Image](d1.png "My Image")
+![My Image](images/d1.png "My Image")
 3. Available stock means the stock which is available in our warehouse.
 4. Unavailable stock means the stock which is not available in our warehouse.
 5. In search bar we can search any ASIN details and below we can see the total result.
@@ -412,9 +412,9 @@ This template is helpful for **FULFILMENT DEPARTMENT**. They will upload the bul
 ### HOW TO USE BULK UPLOAD:
 * **Step1:** Open Warehouse dashboard there you can see the bulk upload button.
 * **Step2:** Now click the bulk upload button, then you can see the interface of it as shown in below image.
-![My Image](d2.png "My Image")
+![My Image](images/d2.png "My Image")
 * **Step3:** Click of\n Download Template, here the excel sheet will download.
-![My Image](d3.png "My Image")
+![My Image](images/d3.png "My Image")
 * **Step4:** Fill the data according to the shipment sheet.
 * **Step5:** Upload this downloaded file in chose file and click submit.
 * **Step6:** There is one more option **Update Data** this is used to update any fields except ASIN. 
@@ -429,7 +429,7 @@ In returns we have 2 options one is **MANAGE RETURNS** and another one is **RETU
 ### WHY THIS TEMPLATE:
 This template is helpful for **FULFILMENT DEPARTMENT**. They used to manage the returns and update the product status based on the conditions.
 
-![My Image](r1.png "My Image")
+![My Image](images/r1.png "My Image")
 
 The above image is for **MANGE RETURNS.**
 
@@ -443,17 +443,17 @@ The above image is for **MANGE RETURNS.**
 ### HOW TO USE:  
 
 * **Step1:** Open Warehouse and click on side menu, move to returns and click on it, there you can see 2 sub-options one is MANAGE RETURNS another one is RETURN FREQUENCY.
-![My Image](r2.png "My Image")
+![My Image](images/r2.png "My Image")
 * **Step2:** Click on MANAGE RETURNS and there you can see the input filed, in that field provide order id it will show the complete information of that returned product.
 * **Step3:** Now fulfilment team will check the product physically and base on the product condition they will update the “Availability field”
-![My Image](r3.png "My Image")
+![My Image](images/r3.png "My Image")
  
 ## RETURN FREQUENCY:  
 
 ### WHY THIS TEMPLATE:  
 
 This template is helpful for **FULFILMENT DEPARTMENT**. They used to check the product return count and if the count got repeated multiple times, then it will directly move to BIN.  
-![My Image](r4.png "My Image")
+![My Image](images/r4.png "My Image")
 The above image is for **RETURN FREQUENCY.**  
 
 ### HOW IT WORKS:
@@ -472,18 +472,18 @@ The above image is for **RETURN FREQUENCY.**
 Reports field is used to maintain the stock reports. This Reports field will show all the products in monthly wise reports, Stock reports, shipment wise reports.  
 ### WHY THIS TOOL:  
 The Reports field is helpful for **WAREHOUSE** Department to maintain and manage the WAREHOUSE Stock. By using this tool, they will  update the stock details like PROACTIVE and REACTIVE to Manager.
-![My Image](wim1.png "My Image")  
+![My Image](images/wim1.png "My Image")  
 
 ### HOW TO USE THIS TOOL:  
   
 ## STOCK REPORTS:
 * **Step-1:-** Open WIM and click on Reports field in menu and select Stock Reports.
 
- ![My Image](wim2.png "My Image")  
+ ![My Image](images/wim2.png "My Image")  
 
 * **Step-2:-** Show all button will produces all the data about the products which are in our WAREHOUSE (PROACTIVE).
 
-  ![My Image](wim3.png "My Image")
+  ![My Image](images/wim3.png "My Image")
   
 * **Step-3:-** Vizag button will produces products data which are in Vizag and Hyderabad button will produces products data which are in Hyderabad.
 
@@ -493,13 +493,13 @@ The Reports field is helpful for **WAREHOUSE** Department to maintain and manage
 * **Step-1:-** Select the Ship code then it will produces the Shipment Wise Records.
 
 * **Step-2:-** The Dynamic Stock table represents the overall stock that is PROACTIVE and REACTIVE in that particular Shipment.
-  ![My Image](wim4.png "My Image")
+  ![My Image](images/wim4.png "My Image")
 
 * **Step-3:-** The Unused Stock table represents the PROACTIVE Stock that is the left over stock after outbound in that particular Shipment.
-  ![My Image](wim5.png "My Image")
+  ![My Image](images/wim5.png "My Image")
 
 * **Step-4:-** The middle table represents all the shipment data with PUIDs. The PUIDs are used to distinguish the products with Same ASIN, So that it is easy for FULFILMENT Department to know which product got returned.
-  ![My Image](wim6.png "My Image")
+  ![My Image](images/wim6.png "My Image")
 
 * **Step-5:-** The Shipment products are REACTIVE by Default and They use convert the balance stock to Proactive button to Convert the remaining products after outbound to Proactive.
 
@@ -508,7 +508,7 @@ The Reports field is helpful for **WAREHOUSE** Department to maintain and manage
 * **Step-1:-** Enter the start date and the end date and click submit button.
 
 * **Step-2:-** It will produces the date wise reports.
-![My Image](wim7.png "My Image")
+![My Image](images/wim7.png "My Image")
 
 ## DATE REPORTS: 
 * **Step-1:-** Enter the start date and the end date and click submit button.
@@ -521,7 +521,7 @@ This tool is helpful for FULFILMENT Department to know daily updates and history
 
 ### HOW TO USE THIS TOOL:  
 * **Step-1:-** Open WIM click on History in Menu and it will produces all the log data.
-  ![My Image](wim8.png "My Image")
+  ![My Image](images/wim8.png "My Image")
 
 * **Step-2:-**
 #
@@ -536,7 +536,7 @@ This template is helpful for **FULFILMENT DEPARTMENT**. They used this template 
 1.	In this Bulk Confirm template, after order verification they will download the template and after downloading it shows an excel sheet.
 2.	 In that they will fill the data from order confirm sheet into new downloaded sheet in the fields of ASIN, Order id, Quantity, Shipment number, Order type.
 3.	 And they save that file and that file they will upload into bulk confirmation template, now in backend code will automatically confirm the orders where it changes the status Reactive into order confirmed with order id.
-![My Image](o1.png "My Image")
+![My Image](images/o1.png "My Image")
 
 This is the bulk confirmation template.  
 
@@ -551,7 +551,7 @@ This is the bulk confirmation template.
 * **Step2:** Click on the Bulk Confirm and you can see the bulk confirmation templates as shown in above image.
 * **Step3:** Now click on download template, it downloads one excel sheet.
   
-* ![My Image](o2.png "My Image")
+* ![My Image](images/o2.png "My Image")
   
 * **Step4:** Here you can see the required fields in above image, now fill that fields where the data available in order verification sheet and save the file.
 * **Step5:** Now open template and click on choose file and upload the saved file.
@@ -567,7 +567,7 @@ This template is helpful for **WAREHOUSE DEPARTMENT.** They use this template to
 1.	In this Shipments there are 2 options one is **“View Dashboard”**, and another one is **“View Backend”**. 
 2.	Here in this **“View Dashboard”** when there is new shipment then they will request for new link.
    
-![My Image](ship1.png "My Image")
+![My Image](images/ship1.png "My Image")
 
 This is the request new link template image.  
 
@@ -583,41 +583,41 @@ This is the request new link template image.
   
 * **Step2:** Click on **“View Dashboard”** now you see the shipment verification dashboard.
   
-![My Image](ship2.png "My Image")  
+![My Image](images/ship2.png "My Image")  
 
 * **Step3:** Click on **“Request New Link”** it shows you **“Shipment Verification Link Request form”** template.
   
-![My Image](ship1.png "My Image")  
+![My Image](images/ship1.png "My Image")  
 
 * **Step4:** Fill the input fields and click on submit.
   
 * **Step5:** Now the new link will generate with the shipment id.
   
-![My Image](ship3.png "My Image")  
+![My Image](images/ship3.png "My Image")  
 
 * **Step6:** After clicking on new link, alert box will appear and ask your name to identify who is operating that template. So, enter your name.
   
-![My Image](ship4.png "My Image")  
+![My Image](images/ship4.png "My Image")  
 
 * **Step7:** Now check the product with ASIN or TITLE, if details match bubble it, then it turns into black colour that means the product was matched and verified.  
 * **Step8:** Now click on “check Orders” if there are no orders to both PEACH and BLUMAPLE then empty table will appears as shown in below image.
   
-![My Image](ship5.png "My Image")  
+![My Image](images/ship5.png "My Image")  
 
 * **Step9:** Now click the next product “check order” button if the order is there for PEACH, then table data shows to peach if it’s there for BLUMAPLE then according to that it shows the table data as shown in below image.
   
-![My Image](ship6.png "My Image")  
+![My Image](images/ship6.png "My Image")  
 
  Here you can see the order is there for PEACH and BLUMAPLE is empty.  
   
 * **Step10:** Now click on “print AWB” and “print invoice”, it shows you the airway and invoice bill’s if the operation team uploads the merged file in backend. 
 * **Step11:** After clicking on “print AWB” and “print invoice”, if the bills consist of then you can see the bills as shown in the below images.
   
-![My Image](ship7.png "My Image")
+![My Image](images/ship7.png "My Image")
 
 This is Air Waybill.  
 
-![My Image](ship8.png "My Image")   
+![My Image](images/ship8.png "My Image")   
 
 This is Invoice bill.
 
@@ -627,7 +627,7 @@ This is Invoice bill.
 > [!NOTE]
 >  We are not using this View Backend, to upload the files in backend we are using in “VIEW DASHBOARD” and in that you can see “Upload Backend Files” as show in below image.
 
-![My Image](back1.png "My Image")
+![My Image](images/back1.png "My Image")
 
 Here we are uploading directly.  
 
@@ -641,16 +641,16 @@ Afte uploading the merge file the pdf will moves to shipment order details page,
 * **Step1:** Open Warehouse and click on side menu, move to Shipments, and click on it, there you can see two options one is View Dashboard; another one is View Backend.
 * **Step2:** Click on “View Dashboard” now you see the shipment verification dashboard.
 
-![My Image](ship2.png "My Image")
+![My Image](images/ship2.png "My Image")
 
 * **Step3:** Click on “Request New Link” it shows you “Shipment Verification Link Request form” template. 
 * **Step4:** Click on “Backend Files” then you can see Backend Data Files Management Page.
   
-![My Image](back2.png "My Image")
+![My Image](images/back2.png "My Image")
 
 * **Step5:** Click on choose file and upload the bulk merge file.
 
-![My Image](back3.png "My Image")
+![My Image](images/back3.png "My Image")
 
 In this image we can see both air waybill and invoice bill are merged into one pdf.
 * **Step6:** Give all the order id in second input filed.
@@ -672,7 +672,7 @@ Uploads field is used to upload the shipment data. In that field contains Manual
 **Manual(single):**   
 * **Step-1:-** In this field, we need to fill the form to enter a single product.
   
-![My Image](wim9.png "My Image")
+![My Image](images/wim9.png "My Image")
 
 #
 
@@ -684,21 +684,21 @@ This tool is helpful for **FULFILLMENT** Department to distinguish the products 
 ### HOW TO USE THIS TOOL:  
 * **Step-1:-** Open WIM and click on Barcodes field in menu and select Generate Barcodes.
   
-![My Image](wim10.png "My Image")
+![My Image](images/wim10.png "My Image")
   
 * **Step-2:-** Enter PUIDs that you want to generate barcodes.
   
 * **Step-3:-** Generate the barcodes using Generate Barcodes button.
   
-![My Image](wim11.png "My Image")
+![My Image](images/wim11.png "My Image")
   
 * **Step-4:-** Download the barcodes Using Download Reports Button.
   
-![My Image](wim12.png "My Image")
+![My Image](images/wim12.png "My Image")
   
 * **Step-5:-** They will stick these barcodes to the products.
   
-![My Image](wim13.jpg "My Image")
+![My Image](images/wim13.jpg "My Image")
 
 #
 
@@ -716,24 +716,24 @@ So that it is easy for fulfilment department to get Invoice and Airway bill toge
 * **Step-1:-** Open amazon seller central and select products that we receive the order.
 * **Step-2:-** Now, view the each product details and copy the tracking ID.
   
-![My Image](Bulk_m1.png "My Image")
+![My Image](images/Bulk_m1.png "My Image")
 
 * **Step-3:-** Click on the print tax invoice button and save the invoice file name as ‘Tracking ID space – space I’ (Eg:81579366260 – I.pdf)    in pdf format. 
 * **Step-4:-** Now, open BlueDart Air Way Bill(AWB) form  and fill the order details manually and save the form file name as tracking ID in pdf format.
   
-![My Image](Bulk_m2.png "My Image")
+![My Image](images/Bulk_m2.png "My Image")
 
 * **Step-5:-** Once, you get all the order’s INVOICE AND AWB in one folder.
   
-![My Image](Bulk_m3.png "My Image")
+![My Image](images/Bulk_m3.png "My Image")
 
 * **Step-6:-** Open Merge Your Bulk Files Into One Tool and enter your name and upload this Invoice and AWB folder in choose the file field and click upload button.
   
-![My Image](Bulk_m4.png "My Image")
+![My Image](images/Bulk_m4.png "My Image")
 
 * **Step-7:-** After completion of this program, download the file using download report button.
   
-![My Image](Bulk_m5.png "My Image")
+![My Image](images/Bulk_m5.png "My Image")
 
 * **Step-8:-** Now, Extract this downloaded file and there is a pdf with invoices and AWBs for bulk orders.
 * **Step-9:-** Send this Bulk PDF via Email to Warehouse Department. So that it is easy for them to pack the product with Invoice and AWB.
@@ -754,17 +754,17 @@ Outputs the related attributes like Order Id, Invoice No, Name, Address, ASIN an
 ### How to use this tool:
 * **Step-1:-** Open Read PDFs In Bulk tool, Enter your name  and Upload the file containing Bulk invoice pdfs.
   
-![My Image](rpb1.png "My Image")
+![My Image](images/rpb1.png "My Image")
 
 * **Step-2:-** Now, Click upload button and wait until the program completes.
 * **Step-3:-** After completion of program, it will display a message like  “Folder is successfully uploaded  Output Result:  Data Extraction is successful”.
 
-![My Image](rpb2.png "My Image")
+![My Image](images/rpb2.png "My Image")
   
 * **Step-4:-** Now, download the file using download report button.
 * **Step-5:-** It will produces TSV data. Now, copy the data and paste in Excel as shown in the below image.
   
-![My Image](rpb3.png "My Image")
+![My Image](images/rpb3.png "My Image")
 
 * **Step-6:-** This output data is used in BLUEDART Flat file to generate the AWB automatically.
 
