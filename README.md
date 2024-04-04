@@ -717,7 +717,7 @@ This Bulk merging tool takes a folder of invoices and AWBs as input and produces
 So that it is easy for fulfilment department to get Invoice and Airway bill together for bulk products.
 
 ### How to use it:
-* **Step-1:-** Open amazon seller central and select products that we receive the order.
+* **Step-1:-** Open amazon seller central and select products that we receive the order. 
 * **Step-2:-** Now, view the each product details and copy the tracking ID.
   
 ![My Image](images/Bulk_m1.png "My Image")
