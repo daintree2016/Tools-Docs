@@ -808,7 +808,7 @@ The main task of this tool is to provide the ASINS, image URLs, Price, Ratings, 
   
 ![My Image](images/nb3.png "My Image")  
 
-* **Step 9:** Now, run the program and fill your login credentials carefully.
+* **Step 9:** Now, run the program and enter your login credentials carefully.
 * **Step 10:** Ater credentials verified there you can see the options to select as shown in below image.
 * **Step 11:**
    - If you want to run **NEW LAUNCHES** provide input 1 and click enter.
