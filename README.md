@@ -778,5 +778,32 @@ Outputs the related attributes like Order Id, Invoice No, Name, Address, ASIN an
 
 #
 
+# NEW LAUNCHES AND BRAND WISE
+
+###  Why this tool:
+
+* To fetch the all data of Newly launched products and brand wise products.
+* Operations department team need to do products listing like new launches and brand wise products.
+* So, by searching the products manually they take more time, and they can’t reach their targets.
+* To overcome all this issues NEW LAUNCHES AND BRAND WISE program, play major role.
+
+### How it works:
+The main task of this tool is to provide the ASINS, image URLs, Price, Ratings, Review count of both NEW LAUNCHES and BRAND WISE products. So, this program provides all the required fields.
+
+### How to use it:
+**Step 1:** Based on the operation team requirements they should provide the product URL.
+**Step2:**  **NEW LAUNCHES** – Now open amazon.com and search the product you want.
+**Step3:**  Now click on the product and scroll to the “product information”.
+**Step4:** There you can see the “BEST SELLER RANK”, in that row u can see the link to which is named with the product you have searched.
+**Step5:** Now, click on it and the page will redirect to the new “NEW LAUNCHES” page.
+**Step 6:** Now, scroll down and you can find the new release link between the products click on it.
+**Step 7:** Now, the page got redirected to **“AMAZON HOT NEW RELEASES”**
+**Step 8:** Now, copy that page URL.
+**Step 9:** Now, run the program and fill your login credentials carefully.
+**Step 10:** Ater credentials verified there you can see the options to select as shown in below image.
+**Step 11:** * If you want to run **NEW LAUNCHES** provide input 1 and click enter.
+* If you want to run **BRAND WISE** provide input 2 and click enter.
+
+
 
 
