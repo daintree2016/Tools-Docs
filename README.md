@@ -15,6 +15,7 @@ Informational guides for users about all the existing tools
 10.	NEW ORDERS TRACKING - (offline)
 11.	BULK PDF READER - (online)
 12.	REFUND PROGRAM - (offline)
+13.	New Launches and Brand Wise Data
 
 # WIM (WAREHOUSE INVENTORY MANAGEMENT )
 
