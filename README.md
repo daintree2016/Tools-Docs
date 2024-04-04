@@ -795,6 +795,7 @@ The main task of this tool is to provide the ASINS, image URLs, Price, Ratings, 
 * **Step2:**  **NEW LAUNCHES** – Now open amazon.com and search the product you want.
 * **Step3:**  Now click on the product and scroll to the **“product information”.**
 * **Step4:** There you can see the **“BEST SELLER RANK”**, in that row u can see the link to which is named with the product you have searched.
+![My Image](images/rpb3.png "My Image")
 * **Step5:** Now, click on it and the page will redirect to the new “NEW LAUNCHES” page.
 * **Step 6:** Now, scroll down and you can find the new release link between the products click on it.
 * **Step 7:** Now, the page got redirected to **“AMAZON HOT NEW RELEASES”**
@@ -816,6 +817,7 @@ The main task of this tool is to provide the ASINS, image URLs, Price, Ratings, 
 * **Step 20:** Now open the “brandlist” excel sheet to check the output result.
 
 ### Any updates required:
+
   
 
 
