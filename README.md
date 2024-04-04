@@ -793,8 +793,8 @@ The main task of this tool is to provide the ASINS, image URLs, Price, Ratings, 
 ### How to use it:
 * **Step 1:** Based on the operation team requirements they should provide the product URL.
 * **Step2:**  **NEW LAUNCHES** – Now open amazon.com and search the product you want.
-* **Step3:**  Now click on the product and scroll to the “product information”.
-* **Step4:** There you can see the “BEST SELLER RANK”, in that row u can see the link to which is named with the product you have searched.
+* **Step3:**  Now click on the product and scroll to the **“product information”.**
+* **Step4:** There you can see the **“BEST SELLER RANK”**, in that row u can see the link to which is named with the product you have searched.
 * **Step5:** Now, click on it and the page will redirect to the new “NEW LAUNCHES” page.
 * **Step 6:** Now, scroll down and you can find the new release link between the products click on it.
 * **Step 7:** Now, the page got redirected to **“AMAZON HOT NEW RELEASES”**
@@ -807,12 +807,12 @@ The main task of this tool is to provide the ASINS, image URLs, Price, Ratings, 
 
 * **Step 12:** As we are discussing about NEW LAUNCHES select option 1 and click enter and provide the previously coped URL and click enter.
 * **Step 13:** Now, program will run and fetch the data, once program completed you can see “Program successfully completed…” in the terminal.
-* **Step 14:** Now open the “newlist” excel sheet to check the output result.
+* **Step 14:** Now open the **“newlist”** excel sheet to check the output result.
 * **Step 15:**  **BRAND WISE**  – Now open amazon.com and search the product you want.
 * **Step 16:** Now left side of the page you can see the filters there you just select the bran you want in brand section and copy the page URL.
 * **Step 17:** Now, run the program and fill your login credentials carefully.
 * **Step 18:** Ater credentials verified select the option 2 and click enter and provide the previously coped URL and click enter.
-* **Step 19:** Now, program will run and fetch the data, once program completed you can see “Program successfully completed…” in the terminal.
+* **Step 19:** Now, program will run and fetch the data, once program completed you can see **“Program successfully completed…”** in the terminal.
 * **Step 20:** Now open the “brandlist” excel sheet to check the output result.
 
 ### Any updates required:
