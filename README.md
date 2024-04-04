@@ -791,7 +791,7 @@ Outputs the related attributes like Order Id, Invoice No, Name, Address, ASIN an
 The main task of this tool is to provide the ASINS, image URLs, Price, Ratings, Review count of both NEW LAUNCHES and BRAND WISE products. So, this program provides all the required fields.
 
 ### How to use it:
-* **Step 1:** Based on the operation team requirements they should provide the product URL.
+* **Step 1:** Based on the operations team requirements they should provide the product URL.
 * **Step2:**  **NEW LAUNCHES** – Now open amazon.com and search the product you want.
 * **Step3:**  Now click on the product and scroll to the **“product information”.**
 * **Step4:** There you can see the **“BEST SELLER RANK”**, in that row u can see the link to which is named with the product you have searched.
