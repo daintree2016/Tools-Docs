@@ -662,6 +662,31 @@ In this image we can see both air waybill and invoice bill are merged into one p
 * **Step8:** Now successfully file got uploaded and all the bills will be available to take print.
 * **Step9:** In second division you can see the search your files here, this field helps you to find the file was uploaded or not.
 
+#
+# REFUNDS
+
+
+### WHY THIS TOOL:
+
+Refunds is use to display all the refund products data and also to modify the product availability state.
+
+### HOW TO USE THIS TOOL:
+
+* **Step-1:-**  Open WIM click on Returns  in Menu and in that click on sub menu called manage returns.
+ ![My Image](images/wim9.png "My Image")
+
+* **Step-2:-** Now you can see the page with search bar and filter. In that select the refund and enter search button, it shows all the data related to refund products
+ 
+ ![My Image](images/wim9.png "My Image")
+
+* **Step-3:-**  Once the product got refund to the customer immediately in mail, they get the notification message in that you can see the data related to that product
+* ![My Image](images/wim9.png "My Image")
+
+* **Step-4:-**  Now, after the product received to the offline store then based on the product condition they will change the status.
+Status like(Restock, Add to bin, Inactive, Fake, Proactive, Lost )
+![My Image](images/wim9.png "My Image")
+
+* **Step-5:-** once the product got updated the status then that product will not be in refund table.
 
 #
 
