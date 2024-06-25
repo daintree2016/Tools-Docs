@@ -680,7 +680,7 @@ Refunds is use to display all the refund products data and also to modify the pr
  ![My Image](images/rf3.png "My Image")
 
 * **Step-3:-**  Once the product got refund to the customer immediately in mail, they get the notification message in that you can see the data related to that product
-* ![My Image](images/rf4.png "My Image")
+![My Image](images/rf4.png "My Image")
 
 * **Step-4:-**  Now, after the product received to the offline store then based on the product condition they will change the status.
 Status like(Restock, Add to bin, Inactive, Fake, Proactive, Lost )
