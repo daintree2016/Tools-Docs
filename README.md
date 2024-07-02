@@ -490,10 +490,10 @@ Follow these steps to use the Refunds_checker&order_details tool:
 # User Guide To Use Live Orders Tracker Tool 
 
 ###  Why is this tool:
-*The Live Orders Tracker tool is essential for efficiently managing and tracking order details from Amazon Seller Central. Previously, gathering detailed information for each order required manual entry, which was time-consuming and prone to errors. This tool automates the process, ensuring accuracy and saving time by providing a streamlined way to gather order details in a Google Sheet.
+The Live Orders Tracker tool is essential for efficiently managing and tracking order details from Amazon Seller Central. Previously, gathering detailed information for each order required manual entry, which was time-consuming and prone to errors. This tool automates the process, ensuring accuracy and saving time by providing a streamlined way to gather order details in a Google Sheet.
 
 ### How does the tool work:
-* The Live Orders Tracker tool is designed to integrate with the Blumaple Customer Support Sheet and automate the process of capturing order details. Here’s a step-by-step overview of how the tool operates:
+The Live Orders Tracker tool is designed to integrate with the Blumaple Customer Support Sheet and automate the process of capturing order details. Here’s a step-by-step overview of how the tool operates:
 1.	Integration with Google Sheets:
    o	The tool is linked with the Blumaple Customer Support Sheet where the order details will be automatically added.
 2.	Launching the Tool:
@@ -509,23 +509,23 @@ Follow these steps to use the Refunds_checker&order_details tool:
    ![My Image](images/lo4.png "My Image")
   	
    o	The tool will provide comprehensive details for each order, including:
-         	Shipment Id
-         	Order Date
-         	Order Id
-         	Ship by
-         	Deliver by
-         	Phone
-         	Address
-         	ASIN
-         	Quantity
-         	Product Title
-         	Price (Rupee)
-         	Amazon Fee
-         	Shipment No
-         	Tracking Id
-         	Tracking Status
-         	Expected Date of Delivery
-         	Is Business Customer
+         *	Shipment Id
+         *	Order Date
+         *	Order Id
+         *	Ship by
+         *	Deliver by
+         *	Phone
+         *	Address
+         *	ASIN
+         *	Quantity
+         *	Product Title
+         *	Price (Rupee)
+         *	Amazon Fee
+         *	Shipment No
+         *	Tracking Id
+         *	Tracking Status
+         *	Expected Date of Delivery
+         *	Is Business Customer
 
 ### How to use the tool : 
 Follow these steps to use the Live Orders Tracker tool:
@@ -540,7 +540,7 @@ Follow these steps to use the Live Orders Tracker tool:
       o	Previous orders will be moved down the sheet to make room for the latest order details at the top.
 
 ### Any updates required:
-   *When we get a order which contain more than 1 prodcut for same customer then that particular data not adding to customer sheet.
+   When we get a order which contain more than 1 prodcut for same customer then that particular data not adding to customer sheet.
 
 # 
 
