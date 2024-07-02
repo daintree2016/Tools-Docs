@@ -507,7 +507,7 @@ The Live Orders Tracker tool is designed to integrate with the Blumaple Customer
 4.	Running the Tool:
    o	Once the program starts running, it will automatically begin adding order details to the Google Sheet.
    o	Each new order will be added to the first row of the sheet, pushing previous orders down.
-   ![My Image](images/lo4.png "My Image")
+   ![My Image](images/lo4.jpeg "My Image")
   	
    The tool will provide comprehensive details for each order, including: <br>
          o	Shipment Id <br>
