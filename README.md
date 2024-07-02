@@ -20,6 +20,7 @@ Informational guides for users about all the existing tools
 
 # WIM (WAREHOUSE INVENTORY MANAGEMENT )
 
+o	The tool verifies your credentials.
 
 1.	SHIPMENT VERIFICATION
 2.	ASIN AVAILABILITY 
