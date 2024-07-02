@@ -15,7 +15,8 @@ Informational guides for users about all the existing tools
 10.	NEW ORDERS TRACKING - (offline)
 11.	BULK PDF READER - (online)
 12.	REFUND PROGRAM - (offline)
-13.	NEW LAUNCHES AND BRAND WISE DATA - (offline)
+13.	LIVE ORDERS TRACKING - (offline)
+14.	NEW LAUNCHES AND BRAND WISE DATA - (offline)
 
 # WIM (WAREHOUSE INVENTORY MANAGEMENT )
 
@@ -484,8 +485,56 @@ Follow these steps to use the Refunds_checker&order_details tool:
     
    ![My Image](images/Ref4.png "My Image")
 
+#
 
+# User Guide To Use Live Orders Tracker Tool 
 
+###  Why is this tool:
+*The Live Orders Tracker tool is essential for efficiently managing and tracking order details from Amazon Seller Central. Previously, gathering detailed information for each order required manual entry, which was time-consuming and prone to errors. This tool automates the process, ensuring accuracy and saving time by providing a streamlined way to gather order details in a Google Sheet.
+
+### How does the tool work:
+* The Live Orders Tracker tool is designed to integrate with the Blumaple Customer Support Sheet and automate the process of capturing order details. Here’s a step-by-step overview of how the tool operates:
+1.	Integration with Google Sheets:
+   o	The tool is linked with the Blumaple Customer Support Sheet where the order details will be automatically added.
+2.	Launching the Tool:
+   o	Open the Live Orders Tracker folder and locate the program file.
+   o	Click on the program file to start it.
+3.	Running the Tool:
+   o	Once the program starts running, it will automatically begin adding order details to the Google Sheet.
+   o	Each new order will be added to the first row of the sheet, pushing previous orders down.
+   o	The tool will provide comprehensive details for each order, including:
+         	Shipment Id
+         	Order Date
+         	Order Id
+         	Ship by
+         	Deliver by
+         	Phone
+         	Address
+         	ASIN
+         	Quantity
+         	Product Title
+         	Price (Rupee)
+         	Amazon Fee
+         	Shipment No
+         	Tracking Id
+         	Tracking Status
+         	Expected Date of Delivery
+         	Is Business Customer
+
+### How to use the tool : 
+Follow these steps to use the Live Orders Tracker tool:
+   1.	Prepare the Google Sheet:
+      o	Ensure that the Blumaple Customer Support Sheet is set up and ready to receive data.
+   2.	Open the Tool:
+      o	Navigate to the Live Orders Tracker folder.
+      o	Open the program file to launch the tool.
+   3.	Monitor the Sheet:
+      o	Once the tool is running, monitor the first row of the Google Sheet for new order details.
+      o	The tool will update the sheet in real-time as new orders come in.
+      o	Previous orders will be moved down the sheet to make room for the latest order details at the top.
+
+### Any updates required:
+   *When we get a order which contain more than 1 prodcut for same customer then that particular data not adding to customer sheet.
 
 # 
 
