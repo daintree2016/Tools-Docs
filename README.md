@@ -434,6 +434,7 @@ The Refunds_checker&order_details tool is designed to integrate with Google Shee
    -  Open the Refunds_checker&order_details folder and launch the program.
    -  You will be prompted to enter your USER ID and Password.
    -  The tool verifies your credentials.
+
  
 3.	Running the Tool:
    -  Once logged in, you will be asked to enter the Starting Index and Ending Index of the orders you want to check.
