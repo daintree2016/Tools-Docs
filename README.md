@@ -431,10 +431,10 @@ The Refunds_checker&order_details tool is designed to integrate with Google Shee
    -	The tool is linked with a specific Google Sheet where order IDs are pasted in Column B.
      
 2.	Launching the Tool:
-   -	Open the Refunds_checker&order_details folder and launch the program.
+   -  Open the Refunds_checker&order_details folder and launch the program.
   	-	You will be prompted to enter your USER ID and Password.
-  	-	The tool verifies your credentials.
-3.	Running the Tool:
+  	-  The tool verifies your credentials.
+4.	Running the Tool:
    -	Once logged in, you will be asked to enter the Starting Index and Ending Index of the orders you want to check.
    -	Next, you will need to specify the Tab Name of your Google Sheet where you need to run the refund program.
    -	The tool will then ask if you wish to move rows of refunded items to a separate refund tab. You can respond with "true" or "false".
@@ -444,7 +444,8 @@ The Refunds_checker&order_details tool is designed to integrate with Google Shee
    -	The tool will then ask if you wish to move rows of refunded items to a separate refund tab. You can respond with "true" or "false".
 
 ### How to use the tool?
-Follow these steps to use the Refunds_checker&order_details tool:
+Follow these steps to use the Refunds_checker&order_details tool:  
+
 **Step 1. **	Prepare the Google Sheet:
    -	Ensure that your order IDs are pasted in Column B of the Google Sheet.
    ![My Image](images/Ref1.png "My Image")
