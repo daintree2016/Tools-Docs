@@ -508,9 +508,9 @@ The Live Orders Tracker tool is designed to integrate with the Blumaple Customer
    o	Each new order will be added to the first row of the sheet, pushing previous orders down.
    ![My Image](images/lo4.png "My Image")
   	
-   o	The tool will provide comprehensive details for each order, including:
-         o	Shipment Id
-         o	Order Date
+   o	The tool will provide comprehensive details for each order, including: <br>
+         o	Shipment Id <br>
+         o	Order Date <br>
          o	Order Id
          o	Ship by
          o	Deliver by
