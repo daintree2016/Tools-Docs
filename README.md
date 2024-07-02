@@ -498,35 +498,29 @@ The Live Orders Tracker tool is designed to integrate with the Blumaple Customer
    o	The tool is linked with the Blumaple Customer Support Sheet where the order details will be automatically added.
 2.	Launching the Tool:
    o	Open the Live Orders Tracker folder and locate the program file.
-   o	Click on the program file to start it.
-   ![My Image](images/lo1.png "My Image")
-   ![My Image](images/lo2.png "My Image")
-   ![My Image](images/lo3.png "My Image")
-  	In the abouve image you can see "YES" if its business customer then it will display as "YES" or it displays as  "NO"
-  
+   o	Click on the program file to start it.  
 4.	Running the Tool:
    o	Once the program starts running, it will automatically begin adding order details to the Google Sheet.
    o	Each new order will be added to the first row of the sheet, pushing previous orders down.
-   ![My Image](images/lo4.jpeg "My Image")
   	
-   The tool will provide comprehensive details for each order, including: <br>
-         o	Shipment Id <br>
-         o	Order Date <br>
-         o	Order Id <br>
-         o	Ship by <br>
-         o	Deliver by <br>
-         o	Phone <br>
-         o	Address <br>
-         o	ASIN <br>
-         o	Quantity <br>
-         o	Product Title <br>
-         o	Price (Rupee) <br>
-         o	Amazon Fee <br>
-         o	Shipment No <br>
-         o	Tracking Id <br>
-         o	Tracking Status <br>
-         o	Expected Date of Delivery <br>
-         o	Is Business Customer <br>
+      The tool will provide comprehensive details for each order, including: <br>
+            o	Shipment Id <br>
+            o	Order Date <br>
+            o	Order Id <br>
+            o	Ship by <br>
+            o	Deliver by <br>
+            o	Phone <br>
+            o	Address <br>
+            o	ASIN <br>
+            o	Quantity <br>
+            o	Product Title <br>
+            o	Price (Rupee) <br>
+            o	Amazon Fee <br>
+            o	Shipment No <br>
+            o	Tracking Id <br>
+            o	Tracking Status <br>
+            o	Expected Date of Delivery <br>
+            o	Is Business Customer <br>
 
 ### How to use the tool : 
 Follow these steps to use the Live Orders Tracker tool:
@@ -535,8 +529,13 @@ Follow these steps to use the Live Orders Tracker tool:
    2.	Open the Tool:
       o	Navigate to the Live Orders Tracker folder.
       o	Open the program file to launch the tool.
-   3.	Monitor the Sheet:
+     	   ![My Image](images/lo1.png "My Image")
+         ![My Image](images/lo2.png "My Image")
+         ![My Image](images/lo3.png "My Image")
+        	In the abouve image you can see "YES" if its business customer then it will display as "YES" or it displays as  "NO"
+   4.	Monitor the Sheet:
       o	Once the tool is running, monitor the first row of the Google Sheet for new order details.
+      ![My Image](images/lo4.jpeg "My Image")
       o	The tool will update the sheet in real-time as new orders come in.
       o	Previous orders will be moved down the sheet to make room for the latest order details at the top.
 
