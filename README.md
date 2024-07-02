@@ -344,6 +344,187 @@ This tool takes bulk data and produces the results in catalogue form which is a 
 #
 
 
+# USER GUIDE TO USE BULK MERGING TOOL  
+### Why this tool:  
+This tool is used to merge the Invoice and Airway bill together for bulk products.
+So that it is easy for fulfilment department to pack the product with Invoice and Airway bill without searching.
+Before this tool, they used to search for the Invoice and Airway bill in the bulk data.  
+
+### How it works:
+This Bulk merging tool takes a folder of invoices and AWBs as input and produces a pdf file that contains product Invoice first and AWB next and other product’s invoice and AWB and so on in a sorted order.
+So that it is easy for fulfilment department to get Invoice and Airway bill together for bulk products.
+
+### How to use it:
+* **Step-1:-** Open amazon seller central and select products that we receive the order. 
+* **Step-2:-** Now, view the each product details and copy the tracking ID.
+  
+![My Image](images/Bulk_m1.png "My Image")
+
+* **Step-3:-** Click on the print tax invoice button and save the invoice file name as ‘Tracking ID space – space I’ (Eg:81579366260 – I.pdf)    in pdf format. 
+* **Step-4:-** Now, open BlueDart Air Way Bill(AWB) form  and fill the order details manually and save the form file name as tracking ID in pdf format.
+  
+![My Image](images/Bulk_m2.png "My Image")
+
+* **Step-5:-** Once, you get all the order’s INVOICE AND AWB in one folder.
+  
+![My Image](images/Bulk_m3.png "My Image")
+
+* **Step-6:-** Open Merge Your Bulk Files Into One Tool and enter your name and upload this Invoice and AWB folder in choose the file field and click upload button.
+  
+![My Image](images/Bulk_m4.png "My Image")
+
+* **Step-7:-** After completion of this program, download the file using download report button.
+  
+![My Image](images/Bulk_m5.png "My Image")
+
+* **Step-8:-** Now, Extract this downloaded file and there is a pdf with invoices and AWBs for bulk orders.
+* **Step-9:-** Send this Bulk PDF via Email to Warehouse Department. So that it is easy for them to pack the product with Invoice and AWB.
+
+### Any Updates (If required):
+#
+
+# USER GUIDE TO READ PDFs IN BULK
+### Why this tool:
+This tool is used to get all the related data from Bulk Invoices and produces the output in TSV (Tab Separated Values) file.
+This output data is used in BLUEDART to get Bulk AIRWAY BILLS automatically.
+Before this tool, they used to fill the AWB forms manually but this tool is very helpful to FULFILMENT DEPARTMENT.
+
+### How it works:
+This tool takes bulk invoice pdfs as input and reads all the data in invoices.
+Outputs the related attributes like Order Id, Invoice No, Name, Address, ASIN and Weight.
+
+### How to use this tool:
+* **Step-1:-** Open Read PDFs In Bulk tool, Enter your name  and Upload the file containing Bulk invoice pdfs.
+  
+![My Image](images/rpb1.png "My Image")
+
+* **Step-2:-** Now, Click upload button and wait until the program completes.
+* **Step-3:-** After completion of program, it will display a message like  “Folder is successfully uploaded  Output Result:  Data Extraction is successful”.
+
+![My Image](images/rpb2.png "My Image")
+  
+* **Step-4:-** Now, download the file using download report button.
+* **Step-5:-** It will produces TSV data. Now, copy the data and paste in Excel as shown in the below image.
+  
+![My Image](images/rpb3.png "My Image")
+
+* **Step-6:-** This output data is used in BLUEDART Flat file to generate the AWB automatically.
+
+### Any updates (if required):
+* They also requested price attribute along with all the data.
+
+
+#
+# 
+# USER GUIDE TO REFUND PROGRAM
+## Refunds_checker&order_details 
+### Why is this tool important?
+The Refunds_checker&order_details tool is essential for efficiently managing and tracking refund information for bulk orders from Amazon. Previously, the refund status of each order had to be checked manually, 
+which was time-consuming and prone to errors. This tool automates the process, ensuring accuracy and saving time by providing a streamlined way to gather refund details.
+
+### How does the tool work?
+The Refunds_checker&order_details tool is designed to integrate with Google Sheets and automate the process of checking the refund status of orders.
+**Here’s a step-by-step overview of how the tool operates:** 
+1. Integration with Google Sheets:
+   o	The tool is linked with a specific Google Sheet where order IDs are pasted in Column B.
+2.	Launching the Tool:
+   o	Open the Refunds_checker&order_details folder and launch the program.
+  	o	You will be prompted to enter your USER ID and Password.
+  	o	The tool verifies your credentials.
+3.	Running the Tool:
+   o	Once logged in, you will be asked to enter the Starting Index and Ending Index of the orders you want to check.
+   o	Next, you will need to specify the Tab Name of your Google Sheet where you need to run the refund program.
+   o	The tool will then ask if you wish to move rows of refunded items to a separate refund tab. You can respond with "true" or "false".
+4.	Processing the Orders:
+   o	Once logged in, you will be asked to enter the Starting Index and Ending Index of the orders you want to check.
+   o	Next, you will need to specify the Tab Name of your Google Sheet where you need to run the refund program.
+   o	The tool will then ask if you wish to move rows of refunded items to a separate refund tab. You can respond with "true" or "false".
+
+### How to use the tool?
+Follow these steps to use the Refunds_checker&order_details tool:
+**Step 1. **	Prepare the Google Sheet:
+   o	Ensure that your order IDs are pasted in Column B of the Google Sheet.
+   ![My Image](images/Ref1.png "My Image")
+**Step 2.** Open the Tool:
+   o	Navigate to the Refunds_checker&order_details folder.
+   o	Open the program dashboard.
+**Step 3.**	Enter Credentials:
+   o	Input your USER ID and Password when prompted.
+   o	Wait for the tool to verify your credentials.
+**Step 4.** Specify Index Range:
+   o	Enter the Starting Index (the first-row number of the order IDs you want to check).
+   o	Enter the Ending Index (the last row number of the order IDs you want to check).
+
+**Step 5.**	Enter Tab Name:
+   o	Provide the Tab Name of the Google Sheet where your order IDs are located.
+**Step 6.**	Move Rows Option:
+   o	When prompted, respond with "true" if you want refunded orders moved to a separate tab, or "false" if you want to keep them in the same tab.
+    ![My Image](images/Ref2.png "My Image")
+**Step 7.** Run the Tool:
+   o	After providing all the required inputs, the tool will start running in the background.
+   o	Monitor Column M of your Google Sheet for updates. Refunded amounts will be displayed, and refunded orders will be highlighted in red.
+    ![My Image](images/Ref3.png "My Image")
+    
+   ![My Image](images/Ref4.png "My Image")
+
+
+
+
+# 
+
+# NEW LAUNCHES AND BRAND WISE
+
+###  Why this tool:
+
+* To fetch the all data of Newly launched products and brand wise products.
+* Operations department team need to do products listing like new launches and brand wise products.
+* So, by searching the products manually they take more time, and they can’t reach their targets.
+* To overcome all this issues NEW LAUNCHES AND BRAND WISE program, play major role.
+
+### How it works:
+The main task of this tool is to provide the ASINS, image URLs, Price, Ratings, Review count of both NEW LAUNCHES and BRAND WISE products. So, this program provides all the required fields.
+
+### How to use it:
+* **Step 1:** Based on the operations team requirements they should provide the product URL.
+* **Step2:**  **NEW LAUNCHES** – Now open amazon.com and search the product you want.
+* **Step3:**  Now click on the product and scroll to the **“product information”.**
+* **Step4:** There you can see the **“BEST SELLER RANK”**, in that row u can see the link to which is named with the product you have searched.
+  
+![My Image](images/nb1.png "My Image")  
+
+* **Step5:** Now, click on it and the page will redirect to the new “NEW LAUNCHES” page.
+* **Step 6:** Now, scroll down and you can find the new release link between the products click on it.
+  
+![My Image](images/nb2.png "My Image")  
+
+* **Step 7:** Now, the page got redirected to **“AMAZON HOT NEW RELEASES”**
+* **Step 8:** Now, copy that page URL.
+  
+![My Image](images/nb3.png "My Image")  
+
+* **Step 9:** Now, run the program and enter your login credentials carefully.
+* **Step 10:** Ater credentials verified there you can see the options to select as shown in below image.
+* **Step 11:**
+   - If you want to run **NEW LAUNCHES** provide input 1 and click enter.
+   - If you want to run **BRAND WISE** provide input 2 and click enter.
+
+* **Step 12:** As we are discussing about NEW LAUNCHES select option 1 and click enter and provide the previously coped URL and click enter.
+* **Step 13:** Now, program will run and fetch the data, once program completed you can see “Program successfully completed…” in the terminal.
+* **Step 14:** Now open the **“newlist”** excel sheet to check the output result.
+* **Step 15:**  **BRAND WISE**  – Now open amazon.com and search the product you want.
+* **Step 16:** Now left side of the page you can see the filters there you just select the bran you want in brand section and copy the page URL.
+  
+![My Image](images/nb4.png "My Image")  
+
+* **Step 17:** Now, run the program and fill your login credentials carefully.
+* **Step 18:** Ater credentials verified select the option 2 and click enter and provide the previously coped URL and click enter.
+* **Step 19:** Now, program will run and fetch the data, once program completed you can see **“Program successfully completed…”** in the terminal.
+* **Step 20:** Now open the “brandlist” excel sheet to check the output result.
+
+### Any updates required:
+
+# 
+
 # SHIPMENT VERIFICATION TOOL  
 
 ### 1.Why this tool:  
@@ -730,132 +911,6 @@ This tool is helpful for **FULFILLMENT** Department to distinguish the products 
 ![My Image](images/wim13.jpg "My Image")
 
 #
-
-# USER GUIDE TO USE BULK MERGING TOOL  
-### Why this tool:  
-This tool is used to merge the Invoice and Airway bill together for bulk products.
-So that it is easy for fulfilment department to pack the product with Invoice and Airway bill without searching.
-Before this tool, they used to search for the Invoice and Airway bill in the bulk data.  
-
-### How it works:
-This Bulk merging tool takes a folder of invoices and AWBs as input and produces a pdf file that contains product Invoice first and AWB next and other product’s invoice and AWB and so on in a sorted order.
-So that it is easy for fulfilment department to get Invoice and Airway bill together for bulk products.
-
-### How to use it:
-* **Step-1:-** Open amazon seller central and select products that we receive the order. 
-* **Step-2:-** Now, view the each product details and copy the tracking ID.
-  
-![My Image](images/Bulk_m1.png "My Image")
-
-* **Step-3:-** Click on the print tax invoice button and save the invoice file name as ‘Tracking ID space – space I’ (Eg:81579366260 – I.pdf)    in pdf format. 
-* **Step-4:-** Now, open BlueDart Air Way Bill(AWB) form  and fill the order details manually and save the form file name as tracking ID in pdf format.
-  
-![My Image](images/Bulk_m2.png "My Image")
-
-* **Step-5:-** Once, you get all the order’s INVOICE AND AWB in one folder.
-  
-![My Image](images/Bulk_m3.png "My Image")
-
-* **Step-6:-** Open Merge Your Bulk Files Into One Tool and enter your name and upload this Invoice and AWB folder in choose the file field and click upload button.
-  
-![My Image](images/Bulk_m4.png "My Image")
-
-* **Step-7:-** After completion of this program, download the file using download report button.
-  
-![My Image](images/Bulk_m5.png "My Image")
-
-* **Step-8:-** Now, Extract this downloaded file and there is a pdf with invoices and AWBs for bulk orders.
-* **Step-9:-** Send this Bulk PDF via Email to Warehouse Department. So that it is easy for them to pack the product with Invoice and AWB.
-
-### Any Updates (If required):
-#
-
-# USER GUIDE TO READ PDFs IN BULK
-### Why this tool:
-This tool is used to get all the related data from Bulk Invoices and produces the output in TSV (Tab Separated Values) file.
-This output data is used in BLUEDART to get Bulk AIRWAY BILLS automatically.
-Before this tool, they used to fill the AWB forms manually but this tool is very helpful to FULFILMENT DEPARTMENT.
-
-### How it works:
-This tool takes bulk invoice pdfs as input and reads all the data in invoices.
-Outputs the related attributes like Order Id, Invoice No, Name, Address, ASIN and Weight.
-
-### How to use this tool:
-* **Step-1:-** Open Read PDFs In Bulk tool, Enter your name  and Upload the file containing Bulk invoice pdfs.
-  
-![My Image](images/rpb1.png "My Image")
-
-* **Step-2:-** Now, Click upload button and wait until the program completes.
-* **Step-3:-** After completion of program, it will display a message like  “Folder is successfully uploaded  Output Result:  Data Extraction is successful”.
-
-![My Image](images/rpb2.png "My Image")
-  
-* **Step-4:-** Now, download the file using download report button.
-* **Step-5:-** It will produces TSV data. Now, copy the data and paste in Excel as shown in the below image.
-  
-![My Image](images/rpb3.png "My Image")
-
-* **Step-6:-** This output data is used in BLUEDART Flat file to generate the AWB automatically.
-
-### Any updates (if required):
-* They also requested price attribute along with all the data.
-
-
-#
-
-# NEW LAUNCHES AND BRAND WISE
-
-###  Why this tool:
-
-* To fetch the all data of Newly launched products and brand wise products.
-* Operations department team need to do products listing like new launches and brand wise products.
-* So, by searching the products manually they take more time, and they can’t reach their targets.
-* To overcome all this issues NEW LAUNCHES AND BRAND WISE program, play major role.
-
-### How it works:
-The main task of this tool is to provide the ASINS, image URLs, Price, Ratings, Review count of both NEW LAUNCHES and BRAND WISE products. So, this program provides all the required fields.
-
-### How to use it:
-* **Step 1:** Based on the operations team requirements they should provide the product URL.
-* **Step2:**  **NEW LAUNCHES** – Now open amazon.com and search the product you want.
-* **Step3:**  Now click on the product and scroll to the **“product information”.**
-* **Step4:** There you can see the **“BEST SELLER RANK”**, in that row u can see the link to which is named with the product you have searched.
-  
-![My Image](images/nb1.png "My Image")  
-
-* **Step5:** Now, click on it and the page will redirect to the new “NEW LAUNCHES” page.
-* **Step 6:** Now, scroll down and you can find the new release link between the products click on it.
-  
-![My Image](images/nb2.png "My Image")  
-
-* **Step 7:** Now, the page got redirected to **“AMAZON HOT NEW RELEASES”**
-* **Step 8:** Now, copy that page URL.
-  
-![My Image](images/nb3.png "My Image")  
-
-* **Step 9:** Now, run the program and enter your login credentials carefully.
-* **Step 10:** Ater credentials verified there you can see the options to select as shown in below image.
-* **Step 11:**
-   - If you want to run **NEW LAUNCHES** provide input 1 and click enter.
-   - If you want to run **BRAND WISE** provide input 2 and click enter.
-
-* **Step 12:** As we are discussing about NEW LAUNCHES select option 1 and click enter and provide the previously coped URL and click enter.
-* **Step 13:** Now, program will run and fetch the data, once program completed you can see “Program successfully completed…” in the terminal.
-* **Step 14:** Now open the **“newlist”** excel sheet to check the output result.
-* **Step 15:**  **BRAND WISE**  – Now open amazon.com and search the product you want.
-* **Step 16:** Now left side of the page you can see the filters there you just select the bran you want in brand section and copy the page URL.
-  
-![My Image](images/nb4.png "My Image")  
-
-* **Step 17:** Now, run the program and fill your login credentials carefully.
-* **Step 18:** Ater credentials verified select the option 2 and click enter and provide the previously coped URL and click enter.
-* **Step 19:** Now, program will run and fetch the data, once program completed you can see **“Program successfully completed…”** in the terminal.
-* **Step 20:** Now open the “brandlist” excel sheet to check the output result.
-
-### Any updates required:
-
-  
-
 
 
 
