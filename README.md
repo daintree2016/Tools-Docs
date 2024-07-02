@@ -446,7 +446,7 @@ The Refunds_checker&order_details tool is designed to integrate with Google Shee
 ### How to use the tool?
 Follow these steps to use the Refunds_checker&order_details tool:  
 
-**Step 1. **	Prepare the Google Sheet:
+**Step 1.** Prepare the Google Sheet:
    -	Ensure that your order IDs are pasted in Column B of the Google Sheet.
      
    ![My Image](images/Ref1.png "My Image")
