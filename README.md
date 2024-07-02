@@ -20,7 +20,6 @@ Informational guides for users about all the existing tools
 
 # WIM (WAREHOUSE INVENTORY MANAGEMENT )
 
-
 1.	SHIPMENT VERIFICATION
 2.	ASIN AVAILABILITY 
 3.	INVENTORY STOCK REPORT
