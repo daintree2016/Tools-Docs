@@ -502,30 +502,31 @@ The Live Orders Tracker tool is designed to integrate with the Blumaple Customer
    ![My Image](images/lo1.png "My Image")
    ![My Image](images/lo2.png "My Image")
    ![My Image](images/lo3.png "My Image")
+  	In the abouve image you can see "YES" if its business customer then it will display as "YES" or it displays as  "NO"
   
 4.	Running the Tool:
    o	Once the program starts running, it will automatically begin adding order details to the Google Sheet.
    o	Each new order will be added to the first row of the sheet, pushing previous orders down.
    ![My Image](images/lo4.png "My Image")
   	
-   o	The tool will provide comprehensive details for each order, including: <br>
+   The tool will provide comprehensive details for each order, including: <br>
          o	Shipment Id <br>
          o	Order Date <br>
-         o	Order Id
-         o	Ship by
-         o	Deliver by
-         o	Phone
-         o	Address
-         o	ASIN
-         o	Quantity
-         o	Product Title
-         o	Price (Rupee)
-         o	Amazon Fee
-         o	Shipment No
-         o	Tracking Id
-         o	Tracking Status
-         o	Expected Date of Delivery
-         o	Is Business Customer
+         o	Order Id <br>
+         o	Ship by <br>
+         o	Deliver by <br>
+         o	Phone <br>
+         o	Address <br>
+         o	ASIN <br>
+         o	Quantity <br>
+         o	Product Title <br>
+         o	Price (Rupee) <br>
+         o	Amazon Fee <br>
+         o	Shipment No <br>
+         o	Tracking Id <br>
+         o	Tracking Status <br>
+         o	Expected Date of Delivery <br>
+         o	Is Business Customer <br>
 
 ### How to use the tool : 
 Follow these steps to use the Live Orders Tracker tool:
