@@ -509,23 +509,23 @@ The Live Orders Tracker tool is designed to integrate with the Blumaple Customer
    ![My Image](images/lo4.png "My Image")
   	
    o	The tool will provide comprehensive details for each order, including:
-         *	Shipment Id
-         *	Order Date
-         *	Order Id
-         *	Ship by
-         *	Deliver by
-         *	Phone
-         *	Address
-         *	ASIN
-         *	Quantity
-         *	Product Title
-         *	Price (Rupee)
-         *	Amazon Fee
-         *	Shipment No
-         *	Tracking Id
-         *	Tracking Status
-         *	Expected Date of Delivery
-         *	Is Business Customer
+         o	Shipment Id
+         o	Order Date
+         o	Order Id
+         o	Ship by
+         o	Deliver by
+         o	Phone
+         o	Address
+         o	ASIN
+         o	Quantity
+         o	Product Title
+         o	Price (Rupee)
+         o	Amazon Fee
+         o	Shipment No
+         o	Tracking Id
+         o	Tracking Status
+         o	Expected Date of Delivery
+         o	Is Business Customer
 
 ### How to use the tool : 
 Follow these steps to use the Live Orders Tracker tool:
