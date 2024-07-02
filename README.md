@@ -423,47 +423,57 @@ The Refunds_checker&order_details tool is essential for efficiently managing and
 which was time-consuming and prone to errors. This tool automates the process, ensuring accuracy and saving time by providing a streamlined way to gather refund details.
 
 ### How does the tool work?
-The Refunds_checker&order_details tool is designed to integrate with Google Sheets and automate the process of checking the refund status of orders.
-**Here’s a step-by-step overview of how the tool operates:** 
+The Refunds_checker&order_details tool is designed to integrate with Google Sheets and automate the process of checking the refund status of orders.  
+
+**Here’s a step-by-step overview of how the tool operates:**  
+
 1. Integration with Google Sheets:
-   o	The tool is linked with a specific Google Sheet where order IDs are pasted in Column B.
+   -	The tool is linked with a specific Google Sheet where order IDs are pasted in Column B.
+     
 2.	Launching the Tool:
-   o	Open the Refunds_checker&order_details folder and launch the program.
-  	o	You will be prompted to enter your USER ID and Password.
-  	o	The tool verifies your credentials.
+   -	Open the Refunds_checker&order_details folder and launch the program.
+  	-	You will be prompted to enter your USER ID and Password.
+  	-	The tool verifies your credentials.
 3.	Running the Tool:
-   o	Once logged in, you will be asked to enter the Starting Index and Ending Index of the orders you want to check.
-   o	Next, you will need to specify the Tab Name of your Google Sheet where you need to run the refund program.
-   o	The tool will then ask if you wish to move rows of refunded items to a separate refund tab. You can respond with "true" or "false".
+   -	Once logged in, you will be asked to enter the Starting Index and Ending Index of the orders you want to check.
+   -	Next, you will need to specify the Tab Name of your Google Sheet where you need to run the refund program.
+   -	The tool will then ask if you wish to move rows of refunded items to a separate refund tab. You can respond with "true" or "false".
 4.	Processing the Orders:
-   o	Once logged in, you will be asked to enter the Starting Index and Ending Index of the orders you want to check.
-   o	Next, you will need to specify the Tab Name of your Google Sheet where you need to run the refund program.
-   o	The tool will then ask if you wish to move rows of refunded items to a separate refund tab. You can respond with "true" or "false".
+   -	Once logged in, you will be asked to enter the Starting Index and Ending Index of the orders you want to check.
+   -	Next, you will need to specify the Tab Name of your Google Sheet where you need to run the refund program.
+   -	The tool will then ask if you wish to move rows of refunded items to a separate refund tab. You can respond with "true" or "false".
 
 ### How to use the tool?
 Follow these steps to use the Refunds_checker&order_details tool:
 **Step 1. **	Prepare the Google Sheet:
-   o	Ensure that your order IDs are pasted in Column B of the Google Sheet.
+   -	Ensure that your order IDs are pasted in Column B of the Google Sheet.
    ![My Image](images/Ref1.png "My Image")
-**Step 2.** Open the Tool:
-   o	Navigate to the Refunds_checker&order_details folder.
-   o	Open the program dashboard.
-**Step 3.**	Enter Credentials:
-   o	Input your USER ID and Password when prompted.
-   o	Wait for the tool to verify your credentials.
-**Step 4.** Specify Index Range:
-   o	Enter the Starting Index (the first-row number of the order IDs you want to check).
-   o	Enter the Ending Index (the last row number of the order IDs you want to check).
 
+**Step 2.** Open the Tool:
+   -	Navigate to the Refunds_checker&order_details folder.
+   -	Open the program dashboard.
+     
+**Step 3.**	Enter Credentials:
+   -	Input your USER ID and Password when prompted.
+   - 	Wait for the tool to verify your credentials.
+     
+**Step 4.** Specify Index Range:
+   -	Enter the Starting Index (the first-row number of the order IDs you want to check).
+   -	Enter the Ending Index (the last row number of the order IDs you want to check).
+     
 **Step 5.**	Enter Tab Name:
-   o	Provide the Tab Name of the Google Sheet where your order IDs are located.
+   -	Provide the Tab Name of the Google Sheet where your order IDs are located.
+     
 **Step 6.**	Move Rows Option:
-   o	When prompted, respond with "true" if you want refunded orders moved to a separate tab, or "false" if you want to keep them in the same tab.
-    ![My Image](images/Ref2.png "My Image")
+   -	When prompted, respond with "true" if you want refunded orders moved to a separate tab, or "false" if you want to keep them in the same tab.
+     
+   ![My Image](images/Ref2.png "My Image")
 **Step 7.** Run the Tool:
-   o	After providing all the required inputs, the tool will start running in the background.
-   o	Monitor Column M of your Google Sheet for updates. Refunded amounts will be displayed, and refunded orders will be highlighted in red.
-    ![My Image](images/Ref3.png "My Image")
+   -	After providing all the required inputs, the tool will start running in the background.
+   -	Monitor Column M of your Google Sheet for updates. Refunded amounts will be displayed, and refunded orders will be highlighted in red.
+     
+   ![My Image](images/Ref3.png "My Image")  
+   
     
    ![My Image](images/Ref4.png "My Image")
 
