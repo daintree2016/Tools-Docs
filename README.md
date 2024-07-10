@@ -630,12 +630,12 @@ It takes bulk ASINS as input and provides all related data.
 
 * **Step-1:-** Open the program file and run the exe file.
 * **Step-2:-** Now enter the user id and password carefully and click enter.
-    ![My Image](images/Ship_ver1.png "My Image")
+    ![My Image](images/sdc1.png "My Image")
 * **Step-3:-** Once after verified the credentials immediately copy and paste the asins you want as input and click enter.
 * **Step-4:-** Now  below the pasted asins type “END” and click enter then the program will start running.
-    ![My Image](images/Ship_ver1.png "My Image")
+    ![My Image](images/sdc2.png "My Image")
 * **Step-5:-** Once after the program got finished then check the output result in output.csv in reports folder.
-    ![My Image](images/Ship_ver1.png "My Image")
+    ![My Image](images/sdc3.png "My Image")
   
 ### 4.Any Updates (If required): 
 
