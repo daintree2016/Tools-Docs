@@ -629,10 +629,16 @@ The DESCRIPTION program takes list of ASINS as input and generates Title, Bullet
 
 ### 3.How to use it:  
 * **Step-1:-**  Firstly, open Description excel sheet  and paste the ASINS.
+  
+  ![My Image](images/des1.png "My Image")
 * **Step-2:-**  Now , run the program and enter the credentials.
+  ![My Image](images/des2.png "My Image")
 * **Step-3:-** It will ask you to select the excel file in that list , type 5 and click enter.
 * **Step-4:-** After that, Enter the starting and End index of your ASINS in sheet.
+  ![My Image](images/des3.png "My Image")
 * **Step-5:-** The output file is used to update the data using Bulk Update option in amazon seller central.
+  ![My Image](images/des4.png "My Image")
+  ![My Image](images/des5.png "My Image")
 
 ### 4.Any Updates (If required): 
 
