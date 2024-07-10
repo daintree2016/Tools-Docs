@@ -17,6 +17,7 @@ Informational guides for users about all the existing tools
 12.	REFUND PROGRAM - (offline)
 13.	LIVE ORDERS TRACKING - (offline)
 14.	NEW LAUNCHES AND BRAND WISE DATA - (offline)
+15.	SIMPLE DOT COM - (offline)
 
 # WIM (WAREHOUSE INVENTORY MANAGEMENT )
 
@@ -618,6 +619,27 @@ This tool is used to verify the shipment products. Whenever we receive the shipm
 ### 4.Any Updates (If required):  
 1. They requested to print the missing products after comparing  bubbling (Verification) numbers and quantity.
 #  
+# SIMPLE DOT COM 
+
+### 1.Why this tool:  
+This Simple Dot Com tool is used to upload the products in bulk, this tool makes operations department’s work easy by providing all the related fields which are required to upload the products in amazon seller central. Before this tool, they used to enter data manually.
+### 2.How it works:
+It takes bulk ASINS as input and provides all related data.
+  
+### 3.How to use it:  
+
+* **Step-1:-** Open the program file and run the exe file.
+* **Step-2:-** Now enter the user id and password carefully and click enter.
+    ![My Image](images/Ship_ver1.png "My Image")
+* **Step-3:-** Once after verified the credentials immediately copy and paste the asins you want as input and click enter.
+* **Step-4:-** Now  below the pasted asins type “END” and click enter then the program will start running.
+    ![My Image](images/Ship_ver1.png "My Image")
+* **Step-5:-** Once after the program got finished then check the output result in output.csv in reports folder.
+    ![My Image](images/Ship_ver1.png "My Image")
+  
+### 4.Any Updates (If required): 
+
+
 
 # USER GUID TO WAREHOUSE INVENTORY MANAGEMENT (WIM)
 
