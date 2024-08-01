@@ -18,7 +18,8 @@ Informational guides for users about all the existing tools
 13.	LIVE ORDERS TRACKING - (offline)
 14.	NEW LAUNCHES AND BRAND WISE DATA - (offline)
 15.	SIMPLE DOT COM - (offline)
-16.	DESCRIPTION - (offline) 
+16.	DESCRIPTION - (offline)
+17.	BUYBOX - (offline)
 
 # WIM (WAREHOUSE INVENTORY MANAGEMENT )
 
