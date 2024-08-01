@@ -20,6 +20,7 @@ Informational guides for users about all the existing tools
 15.	SIMPLE DOT COM - (offline)
 16.	DESCRIPTION - (offline)
 17.	BUYBOX - (offline)
+18.	MAIL PARSER - (offline)
 
 # WIM (WAREHOUSE INVENTORY MANAGEMENT )
 
