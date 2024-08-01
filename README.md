@@ -645,8 +645,34 @@ The DESCRIPTION program takes list of ASINS as input and generates Title, Bullet
   ![My Image](images/des5.png "My Image")
 
 ### 4.Any Updates (If required): 
-
 #
+
+# BUYBOX PROGRAM (OFFLINE) :
+### 1.Why this tool:  
+
+Buy Box tool is used to help us to display our products in higher priority when customer search for some products in our listing and shows our company name in seller and sold by. Before this tool, they manually updated the prices to get Buy Box and It takes weeks to complete the work but now, the work became easy and time saving and now, they can do more work in less time.
+
+### 2.How it works:  
+
+It reads the input ASINs from text file and provides the data in excel sheet.
+
+### 3.How to use it:  
+* **Step-1:-** First operation team will upload the required bulk shipment ASINS in “asins” text file.
+  
+  ![My Image](images/bb1.png "My Image")
+* **Step-2:-**  Now after running the program, if the program is in use, then in output it will provide “session is busy running the program initiated by some other user…
+Trying to connect in some time please wait....”.
+
+  
+  ![My Image](images/bb2.png "My Image")
+  In the above image you can see the ALERT MESSAGE.
+* **Step-3:-** If the session is free to run then, program will run and provide the output in “output.xlsx” sheet.
+  ![My Image](images/bb3.png "My Image")
+  In the above image you can see the output of Buybox input ASINs.
+
+### 4.Any Updates (If required): 
+
+
 #
 # SHIPMENT VERIFICATION TOOL  
 
