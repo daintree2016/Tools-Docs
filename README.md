@@ -696,11 +696,16 @@ The tool is completely work on Gmail to parse the required data from Refund init
   ![My Image](images/mp2.png "My Image")
 
 > [!NOTE]
-> If the program for “BLUMAPLE” in excel it contains 2 sheets data.
+
+* If the program for “BLUMAPLE”, then in excel sheet it contains 2 sheets data.
 * 1.Normal refund mails (SHEET 1)
+* 
 ![My Image](images/mp3.png "My Image")
+
 * FBA refund mails (SHEET 2)
+* 
 ![My Image](images/mp4.png "My Image")
+
 In the above image you can see the output of MAIL PARSER data.
 
 ### 4.Any Updates (If required):
