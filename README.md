@@ -681,7 +681,7 @@ This tool is used to parse the Refund-initiated mails data from the Gmail into e
 
 ### 2.How it works:  
 
-The tool is completely work on Gmail to parse the required data from Refund initiated mails, before running this tool need to provide user Gmail credentials properly. Then the program will provide the output in excel sheet. Before this program the team take more time to complete the work, but now throw this program they can parse the 30 days data in less the 5 min and complete the work in short of time
+The tool is completely work on Gmail to parse the required data from Refund initiated mails, before running this tool need to provide user Gmail credentials properly. Then the program will provide the output in excel sheet. Before this program the team take more time to complete the work, but now using this program they can parse the 30 days data in less the 5 min and complete the work in short of time
 
 ### 3.How to use it:  
 * **Step-1:-** First the user should check and correct the credentials in credentials.yml file after extracting the program folder.
