@@ -673,6 +673,37 @@ Trying to connect in some time please wait....”.
 
 ### 4.Any Updates (If required): 
 
+#
+# MAIL PARSER PROGRAM (OFFLINE) :
+### 1.Why this tool:  
+
+This tool is used to parse the Refund-initiated mails data from the Gmail into excel sheet which helps to complete the work in less time.
+
+### 2.How it works:  
+
+The tool is completely work on Gmail to parse the required data from Refund initiated mails, before running this tool need to provide user Gmail credentials properly. Then the program will provide the output in excel sheet. Before this program the team take more time to complete the work, but now throw this program they can parse the 30 days data in less the 5 min and complete the work in short of time
+
+### 3.How to use it:  
+* **Step-1:-** First the user should check and correct the credentials in credentials.yml file after extracting the program folder.
+  
+* **Step-2:-**  In the program file, there is a 'frm_email_address' text file. This file is used to parse emails from a specific email address. For 'Refund Initiated' emails, the correct email address should be returned.
+
+* **Step-3:-**Now after running the program, it will ask the number of days to parse so first, must give number to parse and click enter and wait until program complete.
+  ![My Image](images/mp1.png "My Image")
+  In the above image you can see clearly.
+  
+* **Step-4:-**Now once the program complete it shows “Processing complete. Data saved to 'emails.xlsx'.” in terminal and final output will display in “email.xlsx”.
+  ![My Image](images/mp2.png "My Image")
+
+> [!NOTE]
+> If the program for “BLUMAPLE” in excel it contains 2 sheets data.
+> 1.Normal refund mails (SHEET 1)
+![My Image](images/mp3.png "My Image")
+> FBA refund mails (SHEET 2)
+![My Image](images/mp4.png "My Image")
+In the above image you can see the output of MAIL PARSER data.
+
+### 4.Any Updates (If required):
 
 #
 # SHIPMENT VERIFICATION TOOL  
