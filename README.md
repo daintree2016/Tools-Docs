@@ -21,6 +21,7 @@ Informational guides for users about all the existing tools
 16.	DESCRIPTION - (offline)
 17.	BUYBOX - (offline)
 18.	MAIL PARSER - (offline)
+19.	BULK UPLOADER(API) - (online)
 
 # WIM (WAREHOUSE INVENTORY MANAGEMENT )
 
@@ -707,6 +708,54 @@ The tool is completely work on Gmail to parse the required data from Refund init
 ![My Image](images/mp4.png "My Image")
 
 In the above image you can see the output of MAIL PARSER data.
+
+### 4.Any Updates (If required):
+
+#
+
+# BULK UPLOADER (API) (ONLINE) :
+### 1.Why this tool:  
+
+This tool is used to change the price based on US prices and update quantity of a product in bulk up to 1 lakh ASINs. 
+
+### 2.How it works:  
+
+This BULK INVENTORY UPLOADER tool will take the 2 data file (1. Price update 2. Quantity Handling Time) from the input and that data will be update and get change the prices and quantities, before this tool they have updated the prices and quantities only 30 thousand per day. But after the program comes per day they can update and change the 1 lakh prices and quantities.
+
+### 3.How to use it:  
+* **Step-1:-**  First the user should login with their credentials in login page.
+  ![My Image](images/bu1.png "My Image") 
+  
+* **Step-2:-**  After successfully login u can see the 2 links to download the text file
+   * 1.price header
+   * 2. Quantity header
+    click on both buttons you’ll get download the text file
+  ![My Image](images/bu2.png "My Image")
+* PRICE HEADER: 
+  ![My Image](images/bu3.png "My Image") 
+* QUANTITY HEADER: 
+  ![My Image](images/bu4.png "My Image") 
+
+
+
+* **Step-3:-** Now after downloading the text files, open with excel and fill the sheet with required data to update the price and change the quantity
+* This is the image of required data for price changer.
+  ![My Image](images/bu5.png "My Image")
+
+* This is the image of required data for quantity update.
+
+  ![My Image](images/bu6.png "My Image")
+
+* **Step-4:-**Now after filling the data sheet, you can see the 2 options to select.
+* 1.Price Update
+* 2. Quantity & Handling Time
+* For updating prices select the first option and upload the data filled sheet in txt format not in excel format and click submit.
+
+* For changing the Quantity & Handling Time select the second option and upload the data filled sheet in txt format not in excel format and click submit.
+
+* **Step-5:-** After clicking submit, below in table the data got updated and there you can see the Feed ID and file uploaded Time, that means your data got updated successfully.
+* Now in seller central the operation team can check the newly updated and changed prices and quantities.   
+
 
 ### 4.Any Updates (If required):
 
