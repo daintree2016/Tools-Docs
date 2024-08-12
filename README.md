@@ -750,9 +750,9 @@ This BULK INVENTORY UPLOADER tool will take the 2 data file (1. Price update 2. 
 
   ![My Image](images/bu6.png "My Image")
 
-* **Step-4:-**Now after filling the data sheet, you can see the 2 options to select.
+* **Step-4:-** Now after filling the data sheet, you can see the 2 options to select.
 * 1.Price Update
-* 2. Quantity & Handling Time
+* 2.Quantity & Handling Time
 * For updating prices select the first option and upload the data filled sheet in txt format not in excel format and click submit.
 
 * For changing the Quantity & Handling Time select the second option and upload the data filled sheet in txt format not in excel format and click submit.
