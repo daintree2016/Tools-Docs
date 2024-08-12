@@ -728,18 +728,22 @@ This BULK INVENTORY UPLOADER tool will take the 2 data file (1. Price update 2. 
   
 * **Step-2:-**  After successfully login u can see the 2 links to download the text file
    * 1.price header
-   * 2. Quantity header
-    click on both buttons you’ll get download the text file
+   * 2.Quantity header
+   click on both buttons you’ll get download the text file
   ![My Image](images/bu2.png "My Image")
-* PRICE HEADER: 
-  ![My Image](images/bu3.png "My Image") 
-* QUANTITY HEADER: 
+* PRICE HEADER:
+  
+  ![My Image](images/bu3.png "My Image")
+  
+* QUANTITY HEADER:
+  
   ![My Image](images/bu4.png "My Image") 
 
 
 
 * **Step-3:-** Now after downloading the text files, open with excel and fill the sheet with required data to update the price and change the quantity
 * This is the image of required data for price changer.
+  
   ![My Image](images/bu5.png "My Image")
 
 * This is the image of required data for quantity update.
