@@ -773,19 +773,24 @@ This tool helps us to build Customer Relationships Management.
 It takes Message Template, bulk ORDER_IDS, TRACKING_IDS as input and sends the message Template to particular Order_ids.  
 ### How to use it:  
 * **Step-1:-** Open one .txt file in your device and paste your message template and Order_ids , Tracking_ids and save the file.
+  
     ![My Image](images/BCM1.png "My Image")
   
 * **Step-2:-** Now, Open Bulk Customer Messenger and select your file to upload and click Create link button.
 * **Step-3:-** It will Create the link and Copy that link  Bulk Customer Messenger.
+  
     ![My Image](images/BCM2.png "My Image")
   
 * **Step-4:-** RUN the Bulk Messaging Application and Enter Your Credentials and Copied URL clink enter.
+  
    ![My Image](images/BCM3.png "My Image")
   
 * **Step-5:-** After completion of program, We can refer Bulk Messenger website for input and output files.
+  
   ![My Image](images/BCM4.png "My Image")
   
 * **Step-6:-** Here is the output format.
+  
   ![My Image](images/BCM5.png "My Image")
 
 # Any Updates (If required):  
