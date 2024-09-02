@@ -810,10 +810,10 @@ Operation team will do listing in peach and blumaple. So once after listing all 
 * In the above image you can see clearly. 
 * **Step-2:-** Now the operation team should upload the ASINs in one separate text file to upload.
 * NOTE: Only text file must use to upload.
-    ![My Image](images/IU.png "My Image")
+    ![My Image](images/IU2.png "My Image")
 * **Step-3:-** Now in the program its clearly displayed the upload box and there you can see the chosen file. Click on it and upload the file text file which is already prepared with the ASINs and click enter.
 * **Step-4:-** Now after uploading you can see the message “he file upload inventory.txt has been uploaded.” Side of the Download report button.
-   ![My Image](images/IU.png "My Image")
+   ![My Image](images/IU3.png "My Image")
 
 * **Step-5:-** There you can see the message in the above image. Now click on the download report button to download the report which contain all the asins you have uploaded and from that you can cross the ASINs which are successfully    uploaded or not.
 
