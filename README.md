@@ -797,50 +797,29 @@ It takes Message Template, bulk ORDER_IDS, TRACKING_IDS as input and sends the m
 # Any Updates (If required):  
 
 #
-# SHIPMENT VERIFICATION TOOL  
-
-### 1.Why this tool:  
-This tool is used to verify the shipment products. Whenever we receive the shipment, we need to verify the products using shipment Verification tool.
-### 2.How it works:
-
-  
-### 3.How to use it:  
-
-* **Step-1:-** When we receive the shipment, Open the shipment verification tool.
-* **Step-2:-** Enter the details like shipment id,
-* **Step-3:-** Now, take any product from the shipment and check for that particular product name in the shipment verification list.
-* **Step-4:-** If you find the product in the shipment list then bubble the product in verification filed. And If you find the same product in the shipment list then bubble the product again.
-    ![My Image](images/Ship_ver1.png "My Image")
-
-* **Step-5:-** Which means, the number of bubbles in each product indicates the quantity of particular product.
-* **Step-6:-** After finishing shipment products verification. Click on orders filed and if any orders are there for that particular product, then print the invoice and airway bill and pack the product.
-* **Step-7:-** Otherwise, place the product in PRO ACTIVE.
-
-### 4.Any Updates (If required):  
-1. They requested to print the missing products after comparing  bubbling (Verification) numbers and quantity.
-#  
-#
 # BULK INVENTORY UPLOAD
 
 ### 1.Why this tool:  
 This tool is used to store both Peach and Blumaple listed ASINs, so when this is will mainly help to avoid the common listing collisions. 
 ### 2.How it works:
-
- Operation team will do listing in peach and blumaple. So once after listing all the products, at end of the day they should copy paste those products ASINs in one text file and should upload in this program so all the listed asins will be in this program backend. 
+Operation team will do listing in peach and blumaple. So once after listing all the products, at end of the day they should copy paste those products ASINs in one text file and should upload in this program so all the listed asins will be in this program backend. 
 ### 3.How to use it:  
 
-* **Step-1:-** When we receive the shipment, Open the shipment verification tool.
-* **Step-2:-** Enter the details like shipment id,
-* **Step-3:-** Now, take any product from the shipment and check for that particular product name in the shipment verification list.
-* **Step-4:-** If you find the product in the shipment list then bubble the product in verification filed. And If you find the same product in the shipment list then bubble the product again.
-    ![My Image](images/Ship_ver1.png "My Image")
+* **Step-1:-** First the user should open the program through the link
+    ![My Image](images/IU.png "My Image")
+* In the above image you can see clearly. 
+* **Step-2:-** Now the operation team should upload the ASINs in one separate text file to upload.
+* NOTE: Only text file must use to upload.
+    ![My Image](images/IU.png "My Image")
+* **Step-3:-** Now in the program its clearly displayed the upload box and there you can see the chosen file. Click on it and upload the file text file which is already prepared with the ASINs and click enter.
+* **Step-4:-** Now after uploading you can see the message “he file upload inventory.txt has been uploaded.” Side of the Download report button.
+   ![My Image](images/IU.png "My Image")
 
-* **Step-5:-** Which means, the number of bubbles in each product indicates the quantity of particular product.
-* **Step-6:-** After finishing shipment products verification. Click on orders filed and if any orders are there for that particular product, then print the invoice and airway bill and pack the product.
-* **Step-7:-** Otherwise, place the product in PRO ACTIVE.
+* **Step-5:-** There you can see the message in the above image. Now click on the download report button to download the report which contain all the asins you have uploaded and from that you can cross the ASINs which are successfully    uploaded or not.
 
 ### 4.Any Updates (If required):  
-1. They requested to print the missing products after comparing  bubbling (Verification) numbers and quantity.
+#
+
 #
 
 
