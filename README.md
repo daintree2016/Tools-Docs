@@ -23,6 +23,7 @@ Informational guides for users about all the existing tools
 18.	MAIL PARSER - (offline)
 19.	BULK UPLOADER(API) - (online)
 20.	BULK CUSTOMER MESSENGER - (offline)
+21.	BULK INVENTORY UPLOAD - (ONLINE)
 
 # WIM (WAREHOUSE INVENTORY MANAGEMENT )
 
