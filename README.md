@@ -24,6 +24,7 @@ Informational guides for users about all the existing tools
 19.	BULK UPLOADER(API) - (online)
 20.	BULK CUSTOMER MESSENGER - (offline)
 21.	BULK INVENTORY UPLOAD - (ONLINE)
+22.	BULK PDF MERGING - (offline)
 
 # WIM (WAREHOUSE INVENTORY MANAGEMENT )
 
@@ -421,6 +422,37 @@ Outputs the related attributes like Order Id, Invoice No, Name, Address, ASIN an
 * They also requested price attribute along with all the data.
 
 
+#
+#
+# USER GUIDE TO BULK PDF MERGING - (offline)  
+
+### Why this tool:
+This tool is used to merge the Invoice and Airway bill together for bulk products. So that it is easy for fulfilment department to pack the product with Invoice and Airway bill without searching. Before this tool, they used to search for the Invoice and Airway bill in the bulk data.  
+
+### How it works:
+This Bulk merging tool takes a folder of invoices and AWBs as input and produces a pdf file that contains product Invoice first and AWB next and other product’s invoice and AWB and so on in a sorted order. So that it is easy for fulfilment department to get Invoice and Airway bill together for bulk products.  
+
+### How to use it:  
+
+*	**Step-1:-** Place the Invoices file name as ‘Tracking ID-I’ (Eg:81579366260–I.pdf) and Airway bills  file name as  ‘Tracking ID’ in pdf format in a same folder.
+  
+*	**Step-2:-** Copy the path for that folder.
+  
+  ![My Image](images/PM1.png "My Image")
+ 
+*	**Step-3:-** Now, open pdf_merger Tool  enter Credentials and It will ask you to enter your folder path.
+  
+*	**Step-4:-** Paste the copied path and click enter.
+  
+    ![My Image](images/PM2.png "My Image")
+ 
+*	**Step-5:-** After completion of program, you will see “Merge Successful” Message and file name.
+  
+*	**Step-6:-** Open the Reports folder under that you will see the output file  that contains product Invoice first and AWB next and other product’s invoice and AWB and so on in a sorted order.
+  
+    ![My Image](images/PM3.png "My Image")
+ 	
+### Any updates (if required):
 #
 # 
 # USER GUIDE TO REFUND PROGRAM
